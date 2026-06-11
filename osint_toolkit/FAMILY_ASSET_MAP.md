@@ -1,9 +1,9 @@
 # ALESHA MART — FAMILY & ASSOCIATE ASSET MAP
 **Classification:** CONFIDENTIAL — Legal Asset Tracing  
 **Case:** SM NABIL — BDT 500,620.00 Recovery  
-**Date:** 2026-06-11  
+**Version:** 2.0 — Updated after live OSINT run (2026-06-11)  
 **Purpose:** Identify all assets held by Manjurul Alam Sikder, his family, co-accused, and affiliated entities for court-ordered seizure and recovery proceedings.  
-**Sources:** CID financial crime investigation, Bangladesh court orders, TBS News, Dhaka Tribune, New Age BD, The Daily Star, The Financial Express, BSS, Prothom Alo, DNCRP, VirusTotal, crt.sh, D&B, RJSC portal
+**Sources:** CID financial crime investigation, Bangladesh court orders, TBS News, Dhaka Tribune, New Age BD, The Daily Star, The Financial Express, BSS, Prothom Alo (ground reporting from Kaliakoir), DNCRP, VirusTotal, crt.sh, D&B, RJSC portal, bdnews24
 
 ---
 
@@ -140,14 +140,52 @@ in public statements, but:
 
 ### 3.1 Real Estate / Immovable Property
 
-| Asset | Location | Registered Owner | Status | Source |
-|-------|----------|-----------------|--------|--------|
-| Immovable property (plot/warehouse/land) | **Gazipur, Dhaka Division** | Alesha Mart Limited | 🔴 **FROZEN** — Court order 21 Jun 2023 | Sessions Court, Judge Asaduzzaman |
-| Corporate office premises | Praasad Trade Center, 3/F, 6 Kemal Ataturk Ave, Banani C/A, Dhaka-1213 | Alesha Holdings / Alesha Mart (tenancy) | 🟡 Likely rented — confirm with landlord | D&B |
-| Registered office | Rupsha Tower, Flat 10/B, Plot 7, Road 17, Banani C/A, Dhaka-1213 | Alesha Holdings (tenancy) | 🟡 Likely rented — confirm with landlord | D&B |
-| Tk 31 crore in properties purchased Jan–Aug 2021 | Unknown (CID has list) | Manjurul Alam Sikder / related entities | 🟡 **Partially or fully unfrozen — DEMAND CID ASSET REGISTER** | CID investigation |
+> **OSINT RUN UPDATE (2026-06-11):** Prothom Alo ground reporting from Kaliakoir (27 Jan 2024) and CID investigation revealed major new land intelligence. All land registered under **Alesha Holdings Limited**.
 
-> **CRITICAL GAP:** The Gazipur freeze covers only Alesha Mart's immovable property. The Tk 31 crore in assets Manjurul personally purchased between January 31 and August 25, 2021 may NOT all be covered by this order. The CID has an asset register — demand it through the money laundering case.
+#### PRIMARY LAND HOLDING — Kaliakoir, Gazipur (CONFIRMED by CID + Ground Report)
+
+| Asset | Location | Registered Owner | Size / Value | Status |
+|-------|----------|-----------------|-------------|--------|
+| **Land parcel (CID-confirmed)** | **Thakurpara, Modhyopara Union, Kaliakoir Upazila, Gazipur** (~10km north of Mouchhak Police Post on Dhaka-Tangail Highway) | **Alesha Holdings Limited** | **2,020 decimals (20 acres)** — Deed value: Tk 32 crore; Actual market: **Tk 150+ crore** | 🔴 **COURT-ORDERED SEIZED** (CID, Jan 2024) |
+| **Additional wetland/fishponds** | **Majukhan area, Kaliakoir Upazila, Gazipur** (two Alesha Holdings signboards confirmed by ground reporters) | **Alesha Holdings Limited** | ~200 bigha (wetland, leased for fish farming) | 🟡 **FREEZE STATUS UNCONFIRMED** |
+| **Total land (caretaker testimony)** | Kaliakoir area, Gazipur | Alesha Holdings Limited | **13,200 decimals (132 acres)** per on-site caretaker — CID only seized 2,020 | 🔴 2,020 seized; 🟡 **~11,180 decimals UNACCOUNTED** |
+
+**On-site intelligence (Prothom Alo ground reporting):**
+- **Caretaker/Overseer:** Nurul Alam (Alesha-appointed, on-site, unpaid for 4–5 months) — KEY WITNESS
+- **Land broker (facilitated 200-bigha purchase):** Jasim Uddin, Modhyopara Union, Kaliakoir — KEY WITNESS
+- **Structures on property:** One concrete house (Manjurul used to stay here) + mud house + leased ponds
+- **Machinery:** Chinese-imported equipment found abandoned at Thakurpara site — suggests planned industrial use
+- **Some land may have been SOLD already** per caretaker testimony — investigate urgently
+
+> **CRITICAL LEGAL GAP:** Deed prices were **massively understated** — one parcel declared at Tk 36,000/decimal vs. market price of Tk 2 lakh/decimal (5.5x undervaluation). The Tk 32 crore deed value likely conceals assets worth **Tk 150–900 crore** depending on how much of the 13,200 decimals is real. CID has only found/seized 2,020 of those decimals.
+
+> **ACTION:** Send lawyers to Kaliakoir Upazila land registration office (Sub-registry Office, Kaliakoir) — demand all deeds registered under "Alesha Holdings Limited" or "Monzur Alam Sikder" or "Sadia Chowdhury" in Gazipur district, 2019–2023.
+
+---
+
+#### RESIDENTIAL PROPERTY — Flats & Houses (In Own Name, Wife's Name, and Relatives' Names)
+
+| Asset | Location | Registered Owner | Status |
+|-------|----------|-----------------|--------|
+| Multiple flats / houses | Unknown (CID has list) | Manjurul Alam Sikder (own name) | 🟡 **CID confirmed — freeze status unclear** |
+| Multiple flats / houses | Unknown (CID has list) | Sadia/Sabia Chowdhury (wife's name) | 🟡 **CID confirmed — freeze status unclear** |
+| Multiple flats / houses | Unknown (CID has list) | **Relatives (স্বজন) — names NOT publicly disclosed** | 🟢 **POSSIBLY UNENCUMBERED — urgent investigation needed** |
+
+> **Source:** Prothom Alo, 27 Jan 2024: *"সিআইডির তথ্য অনুযায়ী, জমির পাশাপাশি মঞ্জুর আলমের নিজের নামে, স্ত্রীর নামে এবং স্বজনদের নামে একাধিক ফ্ল্যাট ও বাড়ি পাওয়া গেছে।"*  
+> Translation: "According to CID data, besides land, multiple flats and houses have been found in Manjurul Alam's own name, wife's name, and **relatives' names**."
+
+> **ACTION:** File application in the money laundering case demanding CID disclose the complete list of flats/houses found — including the **names of relatives** holding assets. This is the highest-priority unresolved gap in the family asset map.
+
+---
+
+#### CORPORATE & OFFICE PREMISES
+
+| Asset | Location | Registered Owner | Status |
+|-------|----------|-----------------|--------|
+| Corporate office | Praasad Trade Center (3/F), 6 Kemal Ataturk Ave, Banani C/A, Dhaka-1213 | Alesha Holdings / Alesha Mart (tenancy) | 🟡 Likely rented — confirm with landlord |
+| Registered office | Rupsha Tower, Flat 10/B, Plot 7, Road 17, Banani C/A, Dhaka-1213 | Alesha Holdings (tenancy) | 🟡 Likely rented — confirm with landlord |
+
+> **CRITICAL GAP:** Beyond the Kaliakoir land, the Tk 31 crore in total assets purchased Jan–August 2021 (per CID investigation) includes the above plus others. The full asset register is with CID — demand it through the money laundering case.
 
 ---
 
@@ -237,28 +275,34 @@ The timing of corporate domain registrations demonstrates premeditated fraud:
 ---
 
 ## PART VII — CONSOLIDATED ASSET STATUS TABLE
+*(Updated after OSINT run 2026-06-11 — Version 2.0)*
 
 | # | Asset Description | Est. Value | Owner / Registered | Status | Priority |
 |---|-----------------|-----------|-------------------|--------|----------|
-| 1 | Immovable property, Gazipur | Unknown | Alesha Mart Ltd | 🔴 FROZEN | Liquidation via money laundering case |
-| 2 | 4 frozen bank accounts | Tk 2.07 crore | Alesha Mart Ltd | 🔴 FROZEN | Seek distribution as victim |
-| 3 | CDCC gateway escrow | ~Tk 58 crore (pool) | SSLCommerz/Nagad escrow | 🔴 HELD | **Register on ccms.govt.bd URGENTLY** |
-| 4 | Tk 31 crore in properties (Jan–Aug 2021) | Tk 31 crore | Manjurul / related entities | 🟡 DEMAND CID REGISTER | File application in money laundering case |
-| 5 | Alesha Holdings Ltd (parent co.) | Unknown | Manjurul (founder/chairman) | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
-| 6 | Alesha Tech Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
-| 7 | Alesha Card Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
-| 8 | Alesha Engineering & Services Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
-| 9 | Alesha Food & Beverages Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
-| 10 | Alesha Ride Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
-| 11 | Alesha Export Import Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
-| 12 | Alesha Pharmacy Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
-| 13 | Alesha Agro Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
-| 14 | Primary web server (36.255.68.240) | Evidentiary | InterCloud-BD | 🔵 LIVE — NO seizure order | CID server seizure — URGENT |
-| 15 | CRM server (crm.aleshatech.net) | Evidentiary | IBM Cloud (SG) | 🔵 LIVE — NO seizure order | IBM Cloud legal hold |
-| 16 | GitLab server (115.127.74.86) | Evidentiary | BRACNet Ltd | 🔵 LIVE — NO seizure order | BRACNet court order |
-| 17 | Abul Kashem US assets | $5.12M (declared) | Abul Kashem | ⚫ FOREIGN | MLAT request via AG's office |
-| 18 | Laundered funds (via Kashem to USA) | ~Tk 150 crore (alleged) | Unknown US entity | ⚫ FOREIGN | MLAT + FinCEN referral |
-| 19 | SK Traders assets (Md Al Mamun) | Unknown | Md Al Mamun | 🟡 Named accused — unknown freeze status | Demand CID disclosure |
+| 1 | **Land: Thakurpara, Kaliakoir, Gazipur (CID-confirmed)** | Deed Tk 32cr; **Real: Tk 150cr+** | **Alesha Holdings Limited** | 🔴 **2,020 decimals COURT-SEIZED** | Seek liquidation for victim distribution |
+| 2 | **Land: Majukhan area, Kaliakoir, Gazipur (fishponds/wetland)** | ~200 bigha | **Alesha Holdings Limited** | 🟡 **FREEZE STATUS UNCONFIRMED** | Move for freeze immediately |
+| 3 | **Land: Remaining ~11,180 decimals, Kaliakoir** (caretaker testimony: 13,200 total vs 2,020 seized) | Potentially **Tk 700cr+** at market | Alesha Holdings Limited | 🟢 **POSSIBLY UNENCUMBERED** | **URGENT — demand full land registry search** |
+| 4 | **Flats/houses in Manjurul's own name** | Unknown | Manjurul Alam Sikder | 🟡 CID confirmed — freeze status unclear | Demand CID disclosure |
+| 5 | **Flats/houses in wife's name** | Unknown | Sadia/Sabia Chowdhury | 🟡 CID confirmed — freeze status unclear | Demand CID disclosure |
+| 6 | **Flats/houses in relatives' names** (names not yet public) | Unknown | Unknown relatives | 🟢 **POSSIBLY UNENCUMBERED** | **URGENT — demand CID disclose names** |
+| 7 | 4 frozen bank accounts (drained) | Tk 2.07 crore | Alesha Mart Ltd | 🔴 FROZEN | Seek distribution as victim |
+| 8 | CDCC gateway escrow | ~Tk 58 crore (pool) | SSLCommerz/Nagad escrow | 🔴 HELD | **Register on ccms.govt.bd URGENTLY** |
+| 9 | Alesha Holdings Ltd (parent co.) | Unknown | Manjurul (founder/chairman) | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
+| 10 | Alesha Tech Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
+| 11 | Alesha Card Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
+| 12 | Alesha Engineering & Services Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
+| 13 | Alesha Food & Beverages Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
+| 14 | Alesha Ride Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
+| 15 | Alesha Export Import Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
+| 16 | Alesha Pharmacy Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
+| 17 | Alesha Agro Ltd | Unknown | Alesha Holdings | 🟡 Named accused — NO freeze confirmed | Move for individual freeze |
+| 18 | Primary web server (36.255.68.240) | Evidentiary | InterCloud-BD | 🔵 LIVE — NO seizure order | CID server seizure — URGENT |
+| 19 | CRM server (crm.aleshatech.net) | Evidentiary | IBM Cloud (SG) | 🔵 LIVE — NO seizure order | IBM Cloud legal hold |
+| 20 | GitLab server (115.127.74.86) | Evidentiary | BRACNet Ltd | 🔵 LIVE — NO seizure order | BRACNet court order |
+| 21 | Abul Kashem US assets | $5.12M declared (~Tk 43.94cr) | Abul Kashem | ⚫ FOREIGN | MLAT request via AG's office |
+| 22 | Laundered funds to USA (via Kashem) | ~Tk 150 crore (CID alleged) | Unknown US entity | ⚫ FOREIGN | MLAT + FinCEN referral |
+| 23 | SK Traders assets (Md Al Mamun) | Unknown | Md Al Mamun | 🟡 Named — unknown freeze status | Demand CID disclosure |
+| 24 | Chinese machinery/equipment (Thakurpara) | Unknown | Alesha Holdings | 🟡 On-site, abandoned | Include in Kaliakoir freeze/seizure |
 
 ---
 
@@ -304,6 +348,65 @@ The timing of corporate domain registrations demonstrates premeditated fraud:
 
 ---
 
-*All findings based on publicly available data: CID investigation reports (via press), Bangladesh court orders, TBS News, Dhaka Tribune, New Age BD, The Daily Star, The Financial Express, BSS, Prothom Alo, VirusTotal, crt.sh, Shodan InternetDB, RDAP WHOIS, D&B, GitHub public repositories.*  
+---
+
+## PART X — OSINT RUN LOG (2026-06-11)
+
+### Tools Run
+| Tool | Target | Result |
+|------|--------|--------|
+| `01_passive_dns_recon.py` | aleshamart.com + 12 related domains | RDAP confirmed domain registration 2020-07-03, expiry 2030-07-03, NS: InterCloud-BD. crt.sh unavailable (503). aleshatech.com confirmed Cloudflare, reg 2015-01-25. |
+| Web OSINT (WebSearch + Exa) | Manjurul Alam Sikder family & assets | See findings below |
+| Facebook profile | facebook.com/monjuralam.sikder | Profile exists, confirmed public |
+| LinkedIn | Sadia Chowdhury (sadiaachowdhury) | Profile found: Dhaka, BD — CSR Head at macomm (Oct 2012–present). Languages: English, Bengali, Hindi, Urdu, Turkish. **Needs identity verification** |
+| Prothom Alo ground report fetch | Kaliakoir land article (Jan 2024) | **Full article retrieved — see key findings below** |
+| RJSC portal | app.roc.gov.bd | CAPTCHA-protected — automated search not possible. Manual search required. |
+| Submodule tools (Sherlock/Maigret/SpiderFoot) | All targets | BLOCKED — external code pull restricted |
+
+### Key New Intelligence from OSINT Run
+
+#### 1. Land — Kaliakoir, Gazipur (MAJOR FIND)
+The Prothom Alo article (by Nurul Amin & Masud Rana, published 27 Jan 2024) confirmed via ground reporting:
+
+- All land registered under **Alesha Holdings Limited**
+- Primary site: **Thakurpara, Modhyopara Union, Kaliakoir** — accessed ~10km north of Mouchhak Police Post via Dhaka-Tangail Highway. Large Alesha Holdings signboard at road entrance; concrete road leads 1km to the property.
+- Secondary site: **Majukhan area, Kaliakoir** — two Alesha Holdings signboards; ~200 bigha of lowland/fishponds leased to local youth
+- CID seized 2,020 decimals; deed price Tk 32cr; actual value **≥Tk 150cr** (deeds 5.5x understated)
+- **Caretaker (Nurul Alam) says total is 13,200 decimals** — CID has only found/seized 2,020
+- **Some land may have already been sold**
+- Land broker who facilitated purchases: **Jasim Uddin**, Modhyopara Union
+
+#### 2. Flats & Houses in Relatives' Names (CONFIRMED, NAMES UNKNOWN)
+CID confirmed (Prothom Alo, Jan 2024): multiple flats and houses found in:
+- Manjurul's own name ✓
+- Sadia Chowdhury's name ✓  
+- **Relatives' names** ✓ — **specific relative identities NOT publicly disclosed**
+
+This is the highest-priority investigative gap. The family asset transfer to relatives is the primary mechanism for hiding assets from seizure.
+
+#### 3. Corporate / Social Media Profiles
+- **Facebook:** facebook.com/monjuralam.sikder — public profile exists
+- **LinkedIn:** A Sadia Chowdhury profile in Dhaka exists (CSR/macomm) — identity unverified
+- Alesha Holdings Facebook: facebook.com/aleshaholdingslimited
+
+#### 4. Witness / Key Contacts Located
+| Name | Role | Value to Case |
+|------|------|--------------|
+| **Nurul Alam** | Alesha-appointed caretaker, Thakurpara | Can testify to true land extent (13,200 decimals) and Manjurul's presence on property |
+| **Jasim Uddin** | Land broker, Modhyopara Union | Can testify to all land purchases facilitated — 200 bigha confirmed |
+| **Shariful Islam** | Neighbour, Thakurpara (Nahid Store owner) | Witnessed land purchases 2022; Alesha blocked his access road |
+| **Sirajul Islam** | Chairman, Modhyopara Union (freedom fighter) | Local authority; confirmed "these are big fraudsters who came to buy land with stolen money" |
+
+### Remaining Intelligence Gaps
+1. **Relatives' names** holding flats/houses — highest priority
+2. **11,180 decimals** of land beyond the 2,020 seized — full land registry search needed
+3. **Sadia Chowdhury LinkedIn** — identity verification needed
+4. **RJSC company filings** — directors, shareholders, share percentages for all 9 subsidiaries
+5. **Bank accounts** — the 4 frozen accounts are named in 4 private banks but not named in public sources
+6. **Foreign assets** — Manjurul fled country before January 2024 arrest; escape route/destination unknown
+
+---
+
+*All findings based on publicly available data: CID investigation reports (via press), Bangladesh court orders, TBS News, Dhaka Tribune, New Age BD, The Daily Star, The Financial Express, BSS, Prothom Alo (including ground report from Kaliakoir, Jan 2024), bdnews24, VirusTotal, crt.sh, Shodan InternetDB, RDAP WHOIS, D&B, LinkedIn, GitHub public repositories.*  
 *This document is for SM Nabil's legal team only. Not for public distribution.*  
-*Prepared: 2026-06-11*
+*Version 2.0 — Prepared: 2026-06-11*
