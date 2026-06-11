@@ -1,0 +1,36 @@
+{
+  "timestamp": "20260611_211458",
+  "static": [],
+  "playwright": [
+    {
+      "source": "DNCRP",
+      "query": "SM Nabil",
+      "hit": false,
+      "screenshot": "dncrp_SM_Nabil.png"
+    },
+    {
+      "source": "DNCRP",
+      "query": "nabilshad50@gmail.com",
+      "hit": false,
+      "screenshot": "dncrp_nabilshad50@gmail.co.png"
+    },
+    {
+      "source": "DNCRP",
+      "query": "Alesha Mart",
+      "hit": false,
+      "screenshot": "dncrp_Alesha_Mart.png"
+    },
+    {
+      "source": "DNCRP",
+      "query": "NG79612021060967264",
+      "hit": false,
+      "screenshot": "dncrp_NG79612021060967264.png"
+    },
+    {
+      "url": "https://mincom.gov.bd/site/page/cdcc",
+      "hits": [],
+      "pdf_links": []
+    }
+  ],
+  "pdfs": []
+}

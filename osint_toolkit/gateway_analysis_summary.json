@@ -1,0 +1,23 @@
+{
+  "merchant_id_analysis": {
+    "NG79612021060967264": {
+      "raw": "NG79612021060967264",
+      "mfs_prefix": "NG",
+      "merchant_sub_id": "796120",
+      "transaction_date": "2106-09-67",
+      "sequence_number": "264",
+      "mfs_provider": "Nagad",
+      "interpretation": "Merchant sub-wallet '796120' at Nagad, transaction on 2106-09-67, sequence #264"
+    },
+    "NG61552021060966458": {
+      "raw": "NG61552021060966458",
+      "mfs_prefix": "NG",
+      "merchant_sub_id": "615520",
+      "transaction_date": "2106-09-66",
+      "sequence_number": "458",
+      "mfs_provider": "Nagad",
+      "interpretation": "Merchant sub-wallet '615520' at Nagad, transaction on 2106-09-66, sequence #458"
+    }
+  },
+  "github_hit_count": 0
+}

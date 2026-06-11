@@ -1,0 +1,83 @@
+{
+  "timestamp": "20260611_210008",
+  "static": [
+    {
+      "name": "Ministry of Commerce \u2013 Digital Commerce",
+      "url": "https://mincom.gov.bd/site/page/notice-board",
+      "hits": [],
+      "links": [],
+      "error": "HTTP 503"
+    },
+    {
+      "name": "Ministry of Commerce \u2013 Press Releases",
+      "url": "https://mincom.gov.bd/site/press_release",
+      "hits": [],
+      "links": [],
+      "error": "HTTP 503"
+    },
+    {
+      "name": "Bangladesh Bank \u2013 Payment System Dept Circulars",
+      "url": "https://www.bb.org.bd/pub/regulationguideline/psd/index.php",
+      "hits": [],
+      "links": []
+    },
+    {
+      "name": "Bangladesh Bank \u2013 Press Releases",
+      "url": "https://www.bb.org.bd/pub/press/index.php",
+      "hits": [],
+      "links": []
+    },
+    {
+      "name": "DNCRP \u2013 Public Notices",
+      "url": "https://dncrp.gov.bd/site/notices",
+      "hits": [],
+      "links": [],
+      "error": "HTTP 503"
+    },
+    {
+      "name": "DNCRP \u2013 Complaint Status",
+      "url": "https://dncrp.gov.bd/site/complaint",
+      "hits": [],
+      "links": [],
+      "error": "HTTP 503"
+    },
+    {
+      "name": "ECC \u2013 E-commerce Circular List",
+      "url": "https://ecc.gov.bd/circulars",
+      "hits": [],
+      "links": [],
+      "error": "HTTPSConnectionPool(host='ecc.gov.bd', port=443): Max retries exceeded with url: /circulars (Caused by NameResolutionError(\"HTTPSConnection(host='ecc.gov.bd', port=443): Failed to resolve 'ecc.gov.bd' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+      "name": "ECC \u2013 Notice Board",
+      "url": "https://ecc.gov.bd/notices",
+      "hits": [],
+      "links": [],
+      "error": "HTTPSConnectionPool(host='ecc.gov.bd', port=443): Max retries exceeded with url: /notices (Caused by NameResolutionError(\"HTTPSConnection(host='ecc.gov.bd', port=443): Failed to resolve 'ecc.gov.bd' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+      "name": "Bangladesh Judiciary \u2013 Case Search",
+      "url": "https://www.judiciary.gov.bd/case-info",
+      "hits": [],
+      "links": []
+    }
+  ],
+  "playwright": [],
+  "pdfs": [],
+  "rjsc": {
+    "name": "RJSC Company Search",
+    "companies": []
+  },
+  "bb_reports": [
+    {
+      "text": "",
+      "url": "https://www.bb.org.bd/pub/quaterly/MFS/",
+      "source": "https://www.bb.org.bd/pub/quaterly/MFS/"
+    },
+    {
+      "text": "",
+      "url": "https://www.bb.org.bd/fnansys/paymentsys/mfsdata.php",
+      "source": "https://www.bb.org.bd/fnansys/paymentsys/mfsdata.php"
+    }
+  ]
+}
