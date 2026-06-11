@@ -1,5 +1,5 @@
 # ALESHA MART FRAUD — GOOGLE DORK MASTER LIST
-# Generated: 2026-06-11T20:59:37.594887+00:00Z
+# Generated: 2026-06-11T21:34:12.069927+00:00Z
 
 
 ## 1_merchant_id_direct
