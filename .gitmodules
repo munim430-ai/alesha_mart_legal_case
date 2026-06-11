@@ -1,0 +1,15 @@
+[submodule "tools/sherlock"]
+	path = tools/sherlock
+	url = https://github.com/sherlock-project/sherlock
+[submodule "tools/maigret"]
+	path = tools/maigret
+	url = https://github.com/soxoj/maigret
+[submodule "tools/spiderfoot"]
+	path = tools/spiderfoot
+	url = https://github.com/smicallef/spiderfoot
+[submodule "tools/social-analyzer"]
+	path = tools/social-analyzer
+	url = https://github.com/qeeqbox/social-analyzer
+[submodule "tools/theHarvester"]
+	path = tools/theHarvester
+	url = https://github.com/laramies/theHarvester

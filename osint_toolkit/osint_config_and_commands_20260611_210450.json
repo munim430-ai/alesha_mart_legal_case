@@ -1,0 +1,214 @@
+{
+  "timestamp": "20260611_210450",
+  "spiderfoot_commands": [
+    {
+      "scan": "Aleshamart_Domain_Full",
+      "command": "python3 tools/spiderfoot/sf.py -s \"aleshamart.com\" -t INTERNET_NAME -m sfp_whois,sfp_dns,sfp_dnsdumpster,sfp_sublist3r,sfp_haveibeenpwned,sfp_dehashed,sfp_opendns,sfp_shodan,sfp_censys,sfp_sslcert,sfp_crt,sfp_emailformat,sfp_hunter,sfp_linkedin,sfp_twitter,sfp_facebook,sfp_webanalytics,sfp_webserver,sfp_googlesearch,sfp_bing,sfp_urlscan,sfp_virustotal,sfp_threatcrowd -o json > spiderfoot_Aleshamart_Domain_Full.json"
+    },
+    {
+      "scan": "Manjurul_Alam_Sikder",
+      "command": "python3 tools/spiderfoot/sf.py -s \"Manjurul Alam Sikder\" -t HUMAN_NAME -m sfp_whois,sfp_googlesearch,sfp_bing,sfp_linkedin,sfp_twitter,sfp_facebook,sfp_emailformat,sfp_haveibeenpwned -o json > spiderfoot_Manjurul_Alam_Sikder.json"
+    },
+    {
+      "scan": "Alesha_Payment_IPs",
+      "command": "python3 tools/spiderfoot/sf.py -s \"aleshamart.com\" -t INTERNET_NAME -m sfp_dns,sfp_dnsdumpster,sfp_shodan,sfp_censys,sfp_sslcert,sfp_crt,sfp_urlscan -o json > spiderfoot_Alesha_Payment_IPs.json"
+    }
+  ],
+  "maigret_commands": [
+    {
+      "username": "manjurulsikder",
+      "full_command": "python3 tools/maigret/maigret manjurulsikder --html --pdf --csv -a -T 30 --retries 2 -J manjurulsikder_maigret_report.json",
+      "focused_command": "python3 tools/maigret/maigret manjurulsikder --site LinkedIn --site Twitter --site Facebook --site Instagram --site TikTok --site GitHub --site GitLab --site Telegram --site Pinterest --site YouTube --site Medium --site Reddit --site Quora --site Behance --site BizSugar --html --csv -J manjurulsikder_maigret_focused.json"
+    },
+    {
+      "username": "manjurul.sikder",
+      "full_command": "python3 tools/maigret/maigret manjurul.sikder --html --pdf --csv -a -T 30 --retries 2 -J manjurul.sikder_maigret_report.json",
+      "focused_command": "python3 tools/maigret/maigret manjurul.sikder --site LinkedIn --site Twitter --site Facebook --site Instagram --site TikTok --site GitHub --site GitLab --site Telegram --site Pinterest --site YouTube --site Medium --site Reddit --site Quora --site Behance --site BizSugar --html --csv -J manjurul.sikder_maigret_focused.json"
+    },
+    {
+      "username": "m.alam.sikder",
+      "full_command": "python3 tools/maigret/maigret m.alam.sikder --html --pdf --csv -a -T 30 --retries 2 -J m.alam.sikder_maigret_report.json",
+      "focused_command": "python3 tools/maigret/maigret m.alam.sikder --site LinkedIn --site Twitter --site Facebook --site Instagram --site TikTok --site GitHub --site GitLab --site Telegram --site Pinterest --site YouTube --site Medium --site Reddit --site Quora --site Behance --site BizSugar --html --csv -J m.alam.sikder_maigret_focused.json"
+    },
+    {
+      "username": "aleshamart",
+      "full_command": "python3 tools/maigret/maigret aleshamart --html --pdf --csv -a -T 30 --retries 2 -J aleshamart_maigret_report.json",
+      "focused_command": "python3 tools/maigret/maigret aleshamart --site LinkedIn --site Twitter --site Facebook --site Instagram --site TikTok --site GitHub --site GitLab --site Telegram --site Pinterest --site YouTube --site Medium --site Reddit --site Quora --site Behance --site BizSugar --html --csv -J aleshamart_maigret_focused.json"
+    },
+    {
+      "username": "alesha_mart",
+      "full_command": "python3 tools/maigret/maigret alesha_mart --html --pdf --csv -a -T 30 --retries 2 -J alesha_mart_maigret_report.json",
+      "focused_command": "python3 tools/maigret/maigret alesha_mart --site LinkedIn --site Twitter --site Facebook --site Instagram --site TikTok --site GitHub --site GitLab --site Telegram --site Pinterest --site YouTube --site Medium --site Reddit --site Quora --site Behance --site BizSugar --html --csv -J alesha_mart_maigret_focused.json"
+    },
+    {
+      "username": "aleshaceo",
+      "full_command": "python3 tools/maigret/maigret aleshaceo --html --pdf --csv -a -T 30 --retries 2 -J aleshaceo_maigret_report.json",
+      "focused_command": "python3 tools/maigret/maigret aleshaceo --site LinkedIn --site Twitter --site Facebook --site Instagram --site TikTok --site GitHub --site GitLab --site Telegram --site Pinterest --site YouTube --site Medium --site Reddit --site Quora --site Behance --site BizSugar --html --csv -J aleshaceo_maigret_focused.json"
+    },
+    {
+      "username": "manjurul_alam",
+      "full_command": "python3 tools/maigret/maigret manjurul_alam --html --pdf --csv -a -T 30 --retries 2 -J manjurul_alam_maigret_report.json",
+      "focused_command": "python3 tools/maigret/maigret manjurul_alam --site LinkedIn --site Twitter --site Facebook --site Instagram --site TikTok --site GitHub --site GitLab --site Telegram --site Pinterest --site YouTube --site Medium --site Reddit --site Quora --site Behance --site BizSugar --html --csv -J manjurul_alam_maigret_focused.json"
+    },
+    {
+      "username": "sikder_manjurul",
+      "full_command": "python3 tools/maigret/maigret sikder_manjurul --html --pdf --csv -a -T 30 --retries 2 -J sikder_manjurul_maigret_report.json",
+      "focused_command": "python3 tools/maigret/maigret sikder_manjurul --site LinkedIn --site Twitter --site Facebook --site Instagram --site TikTok --site GitHub --site GitLab --site Telegram --site Pinterest --site YouTube --site Medium --site Reddit --site Quora --site Behance --site BizSugar --html --csv -J sikder_manjurul_maigret_focused.json"
+    },
+    {
+      "username": "aleshamartbd",
+      "full_command": "python3 tools/maigret/maigret aleshamartbd --html --pdf --csv -a -T 30 --retries 2 -J aleshamartbd_maigret_report.json",
+      "focused_command": "python3 tools/maigret/maigret aleshamartbd --site LinkedIn --site Twitter --site Facebook --site Instagram --site TikTok --site GitHub --site GitLab --site Telegram --site Pinterest --site YouTube --site Medium --site Reddit --site Quora --site Behance --site BizSugar --html --csv -J aleshamartbd_maigret_focused.json"
+    },
+    {
+      "username": "aleshabd",
+      "full_command": "python3 tools/maigret/maigret aleshabd --html --pdf --csv -a -T 30 --retries 2 -J aleshabd_maigret_report.json",
+      "focused_command": "python3 tools/maigret/maigret aleshabd --site LinkedIn --site Twitter --site Facebook --site Instagram --site TikTok --site GitHub --site GitLab --site Telegram --site Pinterest --site YouTube --site Medium --site Reddit --site Quora --site Behance --site BizSugar --html --csv -J aleshabd_maigret_focused.json"
+    },
+    {
+      "username": "manjurul1",
+      "full_command": "python3 tools/maigret/maigret manjurul1 --html --pdf --csv -a -T 30 --retries 2 -J manjurul1_maigret_report.json",
+      "focused_command": "python3 tools/maigret/maigret manjurul1 --site LinkedIn --site Twitter --site Facebook --site Instagram --site TikTok --site GitHub --site GitLab --site Telegram --site Pinterest --site YouTube --site Medium --site Reddit --site Quora --site Behance --site BizSugar --html --csv -J manjurul1_maigret_focused.json"
+    },
+    {
+      "username": "msikderbd",
+      "full_command": "python3 tools/maigret/maigret msikderbd --html --pdf --csv -a -T 30 --retries 2 -J msikderbd_maigret_report.json",
+      "focused_command": "python3 tools/maigret/maigret msikderbd --site LinkedIn --site Twitter --site Facebook --site Instagram --site TikTok --site GitHub --site GitLab --site Telegram --site Pinterest --site YouTube --site Medium --site Reddit --site Quora --site Behance --site BizSugar --html --csv -J msikderbd_maigret_focused.json"
+    }
+  ],
+  "email_checks": [
+    {
+      "email": "ceo@aleshamart.com",
+      "checks": {
+        "mx_records": [],
+        "domain_accepts_mail": false,
+        "hibp_status": 401
+      }
+    },
+    {
+      "email": "md@aleshamart.com",
+      "checks": {
+        "mx_records": [],
+        "domain_accepts_mail": false,
+        "hibp_status": 401
+      }
+    },
+    {
+      "email": "chairman@aleshamart.com",
+      "checks": {
+        "mx_records": [],
+        "domain_accepts_mail": false,
+        "hibp_status": 401
+      }
+    },
+    {
+      "email": "manjurul@aleshamart.com",
+      "checks": {
+        "mx_records": [],
+        "domain_accepts_mail": false,
+        "hibp_status": 401
+      }
+    },
+    {
+      "email": "m.sikder@aleshamart.com",
+      "checks": {
+        "mx_records": [],
+        "domain_accepts_mail": false,
+        "hibp_status": 401
+      }
+    }
+  ],
+  "corporate_network": {
+    "nodes": [],
+    "edges": []
+  },
+  "theharvester": {
+    "domain": "aleshamart.com",
+    "command": "theHarvester -d aleshamart.com -b bing,google,duckduckgo,baidu,yahoo,crtsh,dnsdumpster,rapiddns,urlscan,virustotal -l 500 -f theharvester_aleshamart_com",
+    "stdout": "Read proxies.yaml from /root/.theHarvester/proxies.yaml\n",
+    "returncode": 1,
+    "emails_found": [],
+    "ips_found": [],
+    "subdomains_found": []
+  },
+  "sherlock": [
+    {
+      "username": "manjurulsikder",
+      "found_urls": [
+        "https://aniworld.to/user/profil/manjurulsikder",
+        "https://www.deviantart.com/manjurulsikder",
+        "https://forums.digitalspy.com/profile/manjurulsikder",
+        "https://kik.me/manjurulsikder",
+        "https://community.native-instruments.com/profile/manjurulsikder",
+        "https://www.nitrotype.com/racer/manjurulsikder",
+        "https://www.smule.com/manjurulsikder",
+        "https://account.venmo.com/u/manjurulsikder"
+      ],
+      "report": "sherlock_manjurulsikder.txt"
+    },
+    {
+      "username": "aleshamart",
+      "found_urls": [
+        "https://www.1337x.to/user/aleshamart/",
+        "https://aniworld.to/user/profil/aleshamart",
+        "https://aleshamart.blogspot.com",
+        "https://cash.app/$aleshamart",
+        "https://www.deviantart.com/aleshamart",
+        "https://forums.digitalspy.com/profile/aleshamart",
+        "https://www.duolingo.com/profile/aleshamart",
+        "https://www.github.com/aleshamart",
+        "https://gitlab.com/aleshamart",
+        "https://cavalier.hudsonrock.com/api/json/v2/osint-tools/search-by-username?username=aleshamart",
+        "https://kik.me/aleshamart",
+        "https://community.native-instruments.com/profile/aleshamart",
+        "https://www.nitrotype.com/racer/aleshamart",
+        "https://www.smule.com/aleshamart",
+        "https://www.tiktok.com/@aleshamart",
+        "https://trovo.live/s/aleshamart/",
+        "https://account.venmo.com/u/aleshamart",
+        "https://en.wikipedia.org/wiki/Special:CentralAuth/aleshamart?uselang=qqx",
+        "https://aleshamart.wordpress.com/",
+        "https://www.youtube.com/@aleshamart",
+        "https://www.pinterest.com/aleshamart/"
+      ],
+      "report": "sherlock_aleshamart.txt"
+    },
+    {
+      "username": "alesha_mart",
+      "found_urls": [
+        "https://aniworld.to/user/profil/alesha_mart",
+        "https://profil.chatujme.cz/alesha_mart",
+        "https://gallog.dcinside.com/alesha_mart",
+        "https://www.deviantart.com/alesha_mart",
+        "https://forums.digitalspy.com/profile/alesha_mart",
+        "https://kik.me/alesha_mart",
+        "https://community.native-instruments.com/profile/alesha_mart",
+        "https://www.nitrotype.com/racer/alesha_mart",
+        "https://www.smule.com/alesha_mart",
+        "https://www.snapchat.com/add/alesha_mart",
+        "https://www.tiktok.com/@alesha_mart",
+        "https://alesha_mart.omg.lol"
+      ],
+      "report": "sherlock_alesha_mart.txt"
+    },
+    {
+      "username": "manjurul.alam",
+      "found_urls": [
+        "https://aniworld.to/user/profil/manjurul.alam",
+        "https://boardgamegeek.com/user/manjurul.alam",
+        "https://kik.me/manjurul.alam",
+        "https://medium.com/@manjurul.alam",
+        "https://community.native-instruments.com/profile/manjurul.alam",
+        "https://www.nitrotype.com/racer/manjurul.alam",
+        "https://www.mydealz.de/profile/manjurul.alam",
+        "https://www.smule.com/manjurul.alam",
+        "https://www.tiktok.com/@manjurul.alam",
+        "https://trovo.live/s/manjurul.alam/",
+        "https://vero.co/manjurul.alam",
+        "https://manjurul.alam.omg.lol",
+        "https://www.threads.net/@manjurul.alam"
+      ],
+      "report": "sherlock_manjurul.alam.txt"
+    }
+  ]
+}
