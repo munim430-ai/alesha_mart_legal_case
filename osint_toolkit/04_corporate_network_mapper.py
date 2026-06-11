@@ -23,7 +23,7 @@ Usage:
     python3 04_corporate_network_mapper.py --direct-osint
 """
 
-import os, sys, json, time, subprocess, argparse, requests
+import os, sys, re, json, time, subprocess, argparse, requests
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -496,7 +496,7 @@ def run_theharvester(domain: str = "aleshamart.com") -> dict:
     """
     out_xml = f"theharvester_{domain.replace('.','_')}.xml"
     cmd = [
-        sys.executable, "-m", "theHarvester.theHarvester",
+        "theHarvester",
         "-d", domain,
         "-b", "bing,google,duckduckgo,baidu,yahoo,crtsh,dnsdumpster,rapiddns,urlscan,virustotal",
         "-l", "500",

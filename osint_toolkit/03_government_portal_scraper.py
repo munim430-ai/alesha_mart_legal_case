@@ -263,10 +263,12 @@ def playwright_scrape_dncrp() -> list[dict]:
     ]
     try:
         with sync_playwright() as pw:
-            browser = pw.chromium.launch(headless=True)
-            ctx     = browser.new_context(
+            chromium_path = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
+            browser = pw.chromium.launch(headless=True, executable_path=chromium_path)
+            ctx = browser.new_context(
                 user_agent=HEADERS["User-Agent"],
                 locale="en-US",
+                ignore_https_errors=True,
             )
             page = ctx.new_page()
 
@@ -339,9 +341,13 @@ def playwright_scrape_ecc() -> list[dict]:
     ]
     try:
         with sync_playwright() as pw:
-            browser = pw.chromium.launch(headless=True)
-            ctx     = browser.new_context(user_agent=HEADERS["User-Agent"])
-            page    = ctx.new_page()
+            chromium_path = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
+            browser = pw.chromium.launch(headless=True, executable_path=chromium_path)
+            ctx = browser.new_context(
+                user_agent=HEADERS["User-Agent"],
+                ignore_https_errors=True,
+            )
+            page = ctx.new_page()
 
             for url in ecc_urls:
                 try:
