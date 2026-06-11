@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+lxml
+playwright
+PyGithub
+pdfplumber
+python-whois
