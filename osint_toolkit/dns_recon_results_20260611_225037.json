@@ -1,0 +1,36 @@
+{
+  "target": "aleshamart.com",
+  "timestamp": "20260611_225037",
+  "certs": [],
+  "passive_dns": [],
+  "whois": {
+    "domain": "ALESHAMART.COM",
+    "status": [
+      "client transfer prohibited"
+    ],
+    "registered": "2020-07-03T09:32:28Z",
+    "last_changed": "2022-11-30T14:49:32Z",
+    "expiration": "2030-07-03T09:32:28Z",
+    "nameservers": [
+      "DNS1.INTERCLOUD-BD.NET",
+      "DNS2.INTERCLOUD-BD.NET"
+    ]
+  },
+  "urlscans": [],
+  "shodan": {},
+  "related_domains": [
+    {
+      "domain": "ALESHATECH.COM",
+      "status": [
+        "client transfer prohibited"
+      ],
+      "registered": "2015-01-25T13:50:34Z",
+      "last_changed": "2026-01-25T16:12:54Z",
+      "expiration": "2027-01-25T13:50:34Z",
+      "nameservers": [
+        "BRIAN.NS.CLOUDFLARE.COM",
+        "CHERYL.NS.CLOUDFLARE.COM"
+      ]
+    }
+  ]
+}
