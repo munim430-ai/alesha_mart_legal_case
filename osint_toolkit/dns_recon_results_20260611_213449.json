@@ -1,0 +1,269 @@
+{
+  "target": "aleshamart.com",
+  "timestamp": "20260611_213449",
+  "certs": [
+    {
+      "name": "dev.aleshamart.com",
+      "issuer": "C=US, O=Let's Encrypt, CN=R3",
+      "not_before": "2021-04-29T17:32:53",
+      "not_after": "2021-07-28T17:32:53",
+      "cert_id": 4449304133
+    },
+    {
+      "name": "cpanel.test.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2021-05-01T00:00:00",
+      "not_after": "2021-07-30T23:59:59",
+      "cert_id": 4456477206
+    },
+    {
+      "name": "cpcalendars.test.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2021-05-01T00:00:00",
+      "not_after": "2021-07-30T23:59:59",
+      "cert_id": 4456477206
+    },
+    {
+      "name": "cpcontacts.test.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2021-05-01T00:00:00",
+      "not_after": "2021-07-30T23:59:59",
+      "cert_id": 4456477206
+    },
+    {
+      "name": "mail.test.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2021-05-01T00:00:00",
+      "not_after": "2021-07-30T23:59:59",
+      "cert_id": 4456477206
+    },
+    {
+      "name": "test.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2021-05-01T00:00:00",
+      "not_after": "2021-07-30T23:59:59",
+      "cert_id": 4456477206
+    },
+    {
+      "name": "webdisk.test.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2021-05-01T00:00:00",
+      "not_after": "2021-07-30T23:59:59",
+      "cert_id": 4456477206
+    },
+    {
+      "name": "webmail.test.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2021-05-01T00:00:00",
+      "not_after": "2021-07-30T23:59:59",
+      "cert_id": 4456477206
+    },
+    {
+      "name": "www.test.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2021-05-01T00:00:00",
+      "not_after": "2021-07-30T23:59:59",
+      "cert_id": 4456477206
+    },
+    {
+      "name": "web.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2022-11-29T00:00:00",
+      "not_after": "2023-02-27T23:59:59",
+      "cert_id": 8089862195
+    },
+    {
+      "name": "apps.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2022-12-21T00:00:00",
+      "not_after": "2023-03-21T23:59:59",
+      "cert_id": 8250854440
+    },
+    {
+      "name": "siteadmin.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2023-01-04T00:00:00",
+      "not_after": "2023-04-04T23:59:59",
+      "cert_id": 8360366894
+    },
+    {
+      "name": "storefront.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2023-01-14T00:00:00",
+      "not_after": "2023-04-14T23:59:59",
+      "cert_id": 8432211372
+    },
+    {
+      "name": "merchant.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2023-01-17T00:00:00",
+      "not_after": "2023-04-17T23:59:59",
+      "cert_id": 8451306862
+    },
+    {
+      "name": "partner.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2023-01-20T00:00:00",
+      "not_after": "2023-04-20T23:59:59",
+      "cert_id": 8470660261
+    },
+    {
+      "name": "admin.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2023-02-17T00:00:00",
+      "not_after": "2023-05-18T23:59:59",
+      "cert_id": 8673586583
+    },
+    {
+      "name": "api.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2023-02-22T00:00:00",
+      "not_after": "2023-05-23T23:59:59",
+      "cert_id": 8710892556
+    },
+    {
+      "name": "aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2024-01-31T00:00:00",
+      "not_after": "2024-04-30T23:59:59",
+      "cert_id": 11929970579
+    },
+    {
+      "name": "cpanel.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2024-01-31T00:00:00",
+      "not_after": "2024-04-30T23:59:59",
+      "cert_id": 11929970579
+    },
+    {
+      "name": "cpcalendars.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2024-01-31T00:00:00",
+      "not_after": "2024-04-30T23:59:59",
+      "cert_id": 11929970579
+    },
+    {
+      "name": "cpcontacts.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2024-01-31T00:00:00",
+      "not_after": "2024-04-30T23:59:59",
+      "cert_id": 11929970579
+    },
+    {
+      "name": "mail.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2024-01-31T00:00:00",
+      "not_after": "2024-04-30T23:59:59",
+      "cert_id": 11929970579
+    },
+    {
+      "name": "webdisk.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2024-01-31T00:00:00",
+      "not_after": "2024-04-30T23:59:59",
+      "cert_id": 11929970579
+    },
+    {
+      "name": "webmail.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2024-01-31T00:00:00",
+      "not_after": "2024-04-30T23:59:59",
+      "cert_id": 11929970579
+    },
+    {
+      "name": "www.aleshamart.com",
+      "issuer": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "not_before": "2024-01-31T00:00:00",
+      "not_after": "2024-04-30T23:59:59",
+      "cert_id": 11929970579
+    }
+  ],
+  "passive_dns": [],
+  "whois": {
+    "domain": "ALESHAMART.COM",
+    "status": [
+      "client transfer prohibited"
+    ],
+    "registered": "2020-07-03T09:32:28Z",
+    "last_changed": "2022-11-30T14:49:32Z",
+    "expiration": "2030-07-03T09:32:28Z",
+    "nameservers": [
+      "DNS1.INTERCLOUD-BD.NET",
+      "DNS2.INTERCLOUD-BD.NET"
+    ]
+  },
+  "urlscans": [],
+  "shodan": {},
+  "virustotal": {
+    "registrar": "NameSilo, LLC",
+    "creation_date": 1593768748,
+    "last_update_date": 1669819772,
+    "last_dns_records": [
+      {
+        "type": "NS",
+        "value": "dns3.intercloud-bd.net",
+        "ttl": 21600
+      },
+      {
+        "rname": "cpanel.intercloud.com.bd",
+        "retry": 1800,
+        "value": "dns1.intercloud-bd.net",
+        "minimum": 86400,
+        "refresh": 3600,
+        "expire": 1209600,
+        "ttl": 21600,
+        "serial": 2023090102,
+        "type": "SOA"
+      },
+      {
+        "priority": 0,
+        "type": "MX",
+        "value": "aleshamart-com.mail.protection.outlook.com",
+        "ttl": 14400
+      },
+      {
+        "type": "NS",
+        "value": "dns1.intercloud-bd.net",
+        "ttl": 21600
+      },
+      {
+        "type": "NS",
+        "value": "dns2.intercloud-bd.net",
+        "ttl": 21600
+      },
+      {
+        "type": "TXT",
+        "value": "MS=ms65608998",
+        "ttl": 14400
+      },
+      {
+        "type": "A",
+        "value": "36.255.68.240",
+        "ttl": 14400
+      },
+      {
+        "type": "TXT",
+        "value": "v=spf1 include:spf.protection.outlook.com -all",
+        "ttl": 14400
+      }
+    ],
+    "last_https_cert": "aleshamart.com",
+    "categories": {},
+    "tags": []
+  },
+  "related_domains": [
+    {
+      "domain": "ALESHATECH.COM",
+      "status": [
+        "client transfer prohibited"
+      ],
+      "registered": "2015-01-25T13:50:34Z",
+      "last_changed": "2026-01-25T16:12:54Z",
+      "expiration": "2027-01-25T13:50:34Z",
+      "nameservers": [
+        "BRIAN.NS.CLOUDFLARE.COM",
+        "CHERYL.NS.CLOUDFLARE.COM"
+      ]
+    }
+  ]
+}

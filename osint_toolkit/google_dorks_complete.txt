@@ -1,0 +1,71 @@
+# ALESHA MART FRAUD — GOOGLE DORK MASTER LIST
+# Generated: 2026-06-11T21:34:12.069927+00:00Z
+
+
+## 1_merchant_id_direct
+"NG79612021060967264"
+"NG61552021060966458"
+"2106091612430E7SEGDEEF1EW"
+"210609160513SWRWB2AQFCJEW"
+"NG79612021060967264" OR "NG61552021060966458"
+
+## 2_sslcommerz_aleshamart_technical
+site:github.com "aleshamart" "sslcommerz"
+site:github.com "aleshamart" "nagad"
+site:stackoverflow.com "aleshamart" "sslcommerz"
+"aleshamart" "MERCHANT_ID" filetype:env
+"aleshamart" "store_id" sslcommerz
+"aleshamart.com" "nagad" payment
+site:pastebin.com "aleshamart" sslcommerz
+site:pastebin.com "aleshamart" nagad
+
+## 3_sslcommerz_merchant_id_pattern
+"NG7961" sslcommerz
+"NG6155" sslcommerz
+"NG7961" nagad merchant
+"NG6155" nagad merchant
+sslcommerz "nagad" "merchant_id" "aleshamart"
+sslcommerz "store_id" "alesha"
+
+## 4_leaked_env_evidentiary
+site:github.com "aleshamart" ".env" OR "config.php" OR "settings.py"
+site:github.com "alesha" "SSLCZ_SECRET" OR "STORE_ID"
+site:github.com "alesha" "nagad_merchant_id" OR "nagad_api_key"
+"aleshamart" inurl:raw.githubusercontent.com
+site:github.com path:.env "aleshamart"
+site:github.com path:config "aleshamart" "sslcommerz"
+
+## 5_court_records_government
+site:ecc.gov.bd "aleshamart" OR "alesha mart"
+site:dncrp.gov.bd "aleshamart" OR "alesha mart"
+site:rjsc.gov.bd "aleshamart"
+site:judiciary.gov.bd "manjurul alam sikder" OR "aleshamart"
+"aleshamart" "refund" site:gov.bd
+"alesha mart" "court order" filetype:pdf
+"manjurul alam sikder" court sentence site:bd
+"NG79612021060967264" OR "NG61552021060966458" site:gov.bd
+
+## 6_financial_forensics
+"aleshamart" "sslcommerz" settlement 2021
+"alesha mart" "nagad" transaction freeze
+"aleshamart" "merchant account" Bangladesh Bank
+"alesha mart" "escrow" "Bangladesh Bank" 2021
+"aleshamart" "CID" "financial crime" Bangladesh
+"alesha mart" "CDCC" refund list filetype:pdf
+"aleshamart" victim list filetype:pdf
+
+## 7_corporate_shell_tracing
+"manjurul alam sikder" director company Bangladesh
+"manjurul alam" "aleshamart" offshore OR "shell company"
+"alesha group" "alesha technology" Bangladesh company
+"alesha mart" "sister concern" OR "affiliate" company
+site:rjsc.gov.bd "alesha" company registration
+"manjurul alam sikder" "company" RJSC Bangladesh
+"aleshamart" "director" "beneficial owner"
+
+## 8_media_investigative
+"alesha mart" "fund" "gateway" filetype:pdf
+"aleshamart" "sslcommerz" "funds" "crore"
+"alesha mart" "payment trapped" OR "frozen funds"
+"alesha mart" "nagad" BDT crore fraud
+"aleshamart" CID "merchant account" seized

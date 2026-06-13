@@ -1,0 +1,22 @@
+{
+  "target": "aleshamart.com",
+  "timestamp": "20260611_205646",
+  "certs": [],
+  "passive_dns": [],
+  "whois": {
+    "domain": "ALESHAMART.COM",
+    "status": [
+      "client transfer prohibited"
+    ],
+    "registered": "2020-07-03T09:32:28Z",
+    "last_changed": "2022-11-30T14:49:32Z",
+    "expiration": "2030-07-03T09:32:28Z",
+    "nameservers": [
+      "DNS1.INTERCLOUD-BD.NET",
+      "DNS2.INTERCLOUD-BD.NET"
+    ]
+  },
+  "urlscans": [],
+  "shodan": {},
+  "related_domains": []
+}
