@@ -13,3 +13,12 @@
 [submodule "tools/theHarvester"]
 	path = tools/theHarvester
 	url = https://github.com/laramies/theHarvester
+[submodule "tools/bd-legal-advisor-rag"]
+	path = tools/bd-legal-advisor-rag
+	url = https://github.com/FaishalRudro/Bangladesh-Legal-Advisor-RAG_GROQ.git
+[submodule "tools/bd-legal-acts-dataset"]
+	path = tools/bd-legal-acts-dataset
+	url = https://github.com/sakhadib/Bangladesh-Legal-Acts-Dataset.git
+[submodule "tools/bd-legal-chatbot"]
+	path = tools/bd-legal-chatbot
+	url = https://github.com/tonmoyjoy/Bangladesh-Legal-Chatbot.git
