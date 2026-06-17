@@ -1,7 +1,7 @@
 # ALESHA MART FRAUD — COMPLETE OSINT FINISHING REPORT
 **Classification:** CONFIDENTIAL — Legal Asset Tracing  
 **Case:** SM NABIL vs. Alesha Mart Ltd. / SSLCommerz / CDCC  
-**Claim:** BDT 500,620.00 | Transaction Date: June 9, 2021  
+**Claim:** BDT 16,18,860.00 | Transaction Dates: June 9 & 13, 2021  
 **Report Date:** 2026-06-12  
 **Compiled from:** All OSINT runs, web research, ground reporting (Prothom Alo Kaliakoir), CID investigation data, court records, social media, corporate filings  
 **This document supersedes:** INTELLIGENCE_BRIEF.md, ASSET_STATUS_AND_LEGAL_STRATEGY.md, FAMILY_ASSET_MAP.md v1 & v2
@@ -12,7 +12,7 @@
 
 Alesha Mart chairman **Manjurul Alam Sikder** and his wife **Sadia Chowdhury** are convicted fraudsters (4 years, July 2025) and fugitives. They defrauded ~7,000 customers of BDT 300 crore and laundered BDT 421 crore through a network of 10 shell companies, a corrupt bank scheme, and land purchases in Gazipur. Total assets identified in this investigation: **at least Tk 200–900+ crore** in Bangladesh alone, plus $5M+ in the United States.
 
-SM Nabil's BDT 500,620 sits in the CDCC escrow pool (~Tk 58 crore remaining). The fastest recovery path is the Article 102 writ + CDCC registration. The largest asset pool for full victim recovery is the Kaliakoir land (up to 132 acres, Tk 150–900+ crore at market price).
+SM Nabil's BDT 16,18,860 sits in the CDCC escrow pool (~Tk 58 crore remaining). The fastest recovery path is the Article 102 writ + CDCC registration. The largest asset pool for full victim recovery is the Kaliakoir land (up to 132 acres, Tk 150–900+ crore at market price).
 
 ---
 
@@ -160,10 +160,14 @@ RJSC Registration:
 |-------------|----------------|--------------------|-----------|--------------------|
 | CDCC / Central Bank escrow (SSLCommerz, Nagad, others) | Tk 534 crore | Tk 476.02 crore (95,923 customers) | **~Tk 58 crore** | **VERIFY registration on ccms.govt.bd with Order IDs** |
 
-**SM Nabil's Nagad transaction details:**
-- Order ID 1: `2106091612430E7SEGDEEF1EW`
-- Order ID 2: `210609160513SWRWB2AQFCJEW`
-- Nagad merchant sub-wallets: **796120** and **615520** (demand Nagad produce settlement records for both)
+**SM Nabil's Nagad transaction details (all six orders):**
+- Order ID 1: `210609160513SWRWB2AQFCJEW` (June 9, BDT 2,50,310 — Yamaha MT-15 155CC Indian)
+- Order ID 2: `210609161243OE7SEGDEEF1EW` (June 9, BDT 2,50,310 — Yamaha MT-15 155CC Indian)
+- Order ID 3: `210613133727KPI7LG6LPJ7EW` (June 13, BDT 2,79,560 — Yamaha R15 BS6 V.3)
+- Order ID 4: `210613134502GZRKFCTPPMDEW` (June 13, BDT 2,79,560 — Yamaha R15 BS6 V.3)
+- Order ID 5: `210613140347UIQBLQMEWJUEW` (June 13, BDT 2,79,560 — Yamaha R15 BS6 V.3)
+- Order ID 6: `210613142805UNAJXEFPNSEW` (June 13, BDT 2,79,560 — Yamaha R15 BS6 V.3)
+- Nagad merchant sub-wallets: **6155**, **7961**, **2146**, **6455**, **5412**, and **9375** (demand Nagad produce settlement records for all six)
 
 ### 3.5 FOREIGN ASSETS
 
@@ -250,7 +254,8 @@ All named in Banani PS money laundering case (May 2023). No public record of ind
 | 2021-01-07 | Alesha Mart officially begins e-commerce operations |
 | **2021-04-05** | aleshatechdev.com registered — fraud infrastructure being built |
 | **2021-06-02** | aleshatech.net registered — CRM/asset servers — **7 days before SM Nabil's transaction** |
-| **2021-06-09** | SM Nabil's BDT 500,620 taken (Order IDs: 2106091612430E7SEGDEEF1EW, 210609160513SWRWB2AQFCJEW) |
+| **2021-06-09** | SM Nabil's BDT 5,00,620 taken — 2 orders (210609160513SWRWB2AQFCJEW + 210609161243OE7SEGDEEF1EW — 2× Yamaha MT-15 155CC Indian) |
+| **2021-06-13** | SM Nabil's BDT 11,18,240 taken — 4 orders (210613133727KPI7LG6LPJ7EW + 210613134502GZRKFCTPPMDEW + 210613140347UIQBLQMEWJUEW + 210613142805UNAJXEFPNSEW — 4× Yamaha R15 BS6 V.3) |
 | 2021 Jan–Aug | Manjurul purchases Tk 31 crore in assets (Kaliakoir land + flats) |
 | 2021 Jul–Sep | Alesha Mart collapses; Tk 1,100+ crore in undelivered orders |
 | 2022-11-30 | aleshamart.com last changed |
@@ -289,7 +294,7 @@ All named in Banani PS money laundering case (May 2023). No public record of ind
 ### TIER 1 — This Week (Emergency)
 | Action | Target | Legal Basis |
 |--------|--------|------------|
-| **Register on ccms.govt.bd** with both Order IDs | CDCC | Essential for any disbursement |
+| **Register on ccms.govt.bd** with all six Order IDs | CDCC | Essential for any disbursement |
 | **File civil money suit** | Alesha Mart Ltd | Limitation Act Sections 18–19 (fraud concealment) |
 | **Send formal demand to CDCC** (registered post) | Ministry of Commerce | Prerequisite for Article 102 mandamus |
 | **Contact BLAST** (blast@blast.org.bd) | Free legal help | Public interest writ expertise |
@@ -301,7 +306,7 @@ All named in Banani PS money laundering case (May 2023). No public record of ind
 | **File Article 102 writ of mandamus** | HC Division (5 respondents) | Constitutional Article 102; continuing wrong |
 | **Attachment before judgment (CPC Order 38)** | Unfrozen Alesha subsidiaries | Civil recovery |
 | **Apply as victim-intervenor** in Banani PS case | Money laundering case | Demand individual freezes + CID asset register |
-| **Demand Nagad records** for sub-wallets 796120 & 615520 | Nagad | Payment evidence |
+| **Demand Nagad records** for sub-wallets 6155, 7961, 2146, 6455, 5412, and 9375 | Nagad | Payment evidence |
 | **Demand CID disclose relatives' names** holding assets | Banani PS case | Asset tracing |
 | **Kaliakoir land registry search** — Kaliakoir Sub-Registry Office | Full Alesha Holdings deeds | Close G2 + G3 gap |
 
@@ -323,21 +328,22 @@ All named in Banani PS money laundering case (May 2023). No public record of ind
 
 | Scenario | Probability | Likely Recovery for SM Nabil |
 |----------|-------------|------------------------------|
-| CDCC disbursement (if registered) | **HIGH** (fastest) | Partial fraction of BDT 500,620 |
+| CDCC disbursement (if registered) | **HIGH** (fastest) | Partial fraction of BDT 16,18,860 |
 | Article 102 writ forces CDCC timeline | **HIGH** (4-week precedent from May 2022) | Accelerates CDCC payment |
-| Civil money decree + attachment | **MEDIUM** | Full BDT 500,620 + interest (BDT 700–750k) |
+| Civil money decree + attachment | **MEDIUM** | Full BDT 16,18,860 + interest (BDT 22–24 lakh) |
 | Money laundering case — Kaliakoir liquidation | **MEDIUM** (long timeline) | Full recovery possible if land sold |
 | Constitutional compensation (Article 102) | **MEDIUM** | Government pays compensation for 5-year delay |
 | Foreign asset recovery (Kashem's USA assets) | **LOW** (requires MLAT, long timeline) | Partial contribution to pool |
 | Tracing relatives' hidden assets | **LOW-MEDIUM** (names not yet public) | Additional pool if identified |
 
-**Most likely outcome:** SM Nabil will recover some amount via CDCC. Full recovery of BDT 500,620 + Tk 200k+ interest requires either the civil money decree to succeed against attached assets or the Kaliakoir land liquidation to reach victim distribution.
+**Most likely outcome:** SM Nabil will recover some amount via CDCC. Full recovery of BDT 16,18,860 + Tk 7–8 lakh interest requires either the civil money decree to succeed against attached assets or the Kaliakoir land liquidation to reach victim distribution.
 
 **Interest calculation (as of Jun 2026, 5 years):**
 | Rate | Principal | 5 Years | Total Claim |
 |------|-----------|---------|-------------|
-| 8% p.a. | BDT 500,620 | BDT 200,248 | **BDT 700,868** |
-| 10% p.a. | BDT 500,620 | BDT 250,310 | **BDT 750,930** |
+| 8% p.a. | BDT 16,18,860 | BDT 6,47,544 | **BDT 22,66,404** |
+| 9% p.a. | BDT 16,18,860 | BDT 7,28,487 | **BDT 23,47,347** |
+| 10% p.a. | BDT 16,18,860 | BDT 8,09,430 | **BDT 24,28,290** |
 
 ---
 
@@ -351,7 +357,7 @@ All named in Banani PS money laundering case (May 2023). No public record of ind
 | IBM Cloud Legal Hold | **legal@us.ibm.com** |
 | Ministry of Commerce (CDCC) | Abdul Gani Road, Dhaka-1000 |
 | SSLCommerz | Legal notice under PSSA 2014 Section 24 |
-| Nagad | Demand sub-wallets 796120 & 615520 settlement records |
+| Nagad | Demand sub-wallets 6155, 7961, 2146, 6455, 5412, 9375 settlement records |
 | ACC | www.acc.org.bd |
 | NYC Property Records (Kashem houses) | **acris.nyc.gov** — search free, public |
 | Kaliakoir Sub-Registry Office | Kaliakoir Upazila, Gazipur — deed search for "Alesha Holdings" 2019–2023 |

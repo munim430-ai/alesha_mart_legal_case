@@ -69,9 +69,9 @@ import json, glob, os
 from datetime import datetime, timezone
 
 combined = {
-    "case": "Alesha Mart BDT 500620 Recovery",
+    "case": "Alesha Mart BDT 1618860 Recovery (6 orders)",
     "generated": datetime.now(timezone.utc).isoformat(),
-    "merchant_ids": ["NG79612021060967264", "NG61552021060966458"],
+    "merchant_ids": ["NG61552021060966458", "NG79612021060967264", "NG21462021061355311", "NG64552021061356312", "NG54122021061358770", "NG93752021061361888"],
     "results": {}
 }
 for f in sorted(glob.glob("*.json")):

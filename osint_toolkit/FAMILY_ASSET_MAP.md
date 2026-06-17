@@ -1,6 +1,6 @@
 # ALESHA MART — FAMILY & ASSOCIATE ASSET MAP
 **Classification:** CONFIDENTIAL — Legal Asset Tracing  
-**Case:** SM NABIL — BDT 500,620.00 Recovery  
+**Case:** SM NABIL — BDT 16,18,860.00 Recovery  
 **Version:** 2.0 — Updated after live OSINT run (2026-06-11)  
 **Purpose:** Identify all assets held by Manjurul Alam Sikder, his family, co-accused, and affiliated entities for court-ordered seizure and recovery proceedings.  
 **Sources:** CID financial crime investigation, Bangladesh court orders, TBS News, Dhaka Tribune, New Age BD, The Daily Star, The Financial Express, BSS, Prothom Alo (ground reporting from Kaliakoir), DNCRP, VirusTotal, crt.sh, D&B, RJSC portal, bdnews24
@@ -209,10 +209,13 @@ in public statements, but:
 |---------|------------|-----------------|-----------|--------|
 | Central Bank escrow (SSLCommerz/Nagad/others) | Tk 534 crore detected | Tk 476.02 crore to 95,923 customers (as of Oct 2025) | **~Tk 58 crore remaining** | Active CDCC process — stalled |
 
-> **SM Nabil's claim** (BDT 500,620) may be in this Tk 58 crore pool.  
-> **Nagad sub-wallets:** 796120 and 615520 — two merchant sub-wallets confirmed for Alesha Mart  
-> **SM Nabil's Order IDs:** 2106091612430E7SEGDEEF1EW and 210609160513SWRWB2AQFCJEW  
-> **ACTION:** Verify registration on ccms.govt.bd with both Order IDs immediately.
+> **SM Nabil's claim** (BDT 16,18,860 across 6 orders) may be in this Tk 58 crore pool.  
+> **Nagad sub-wallets:** 6155, 7961, 2146, 6455, 5412, and 9375 — six merchant sub-wallets confirmed  
+> **SM Nabil's Order IDs (all six):**  
+> `210609160513SWRWB2AQFCJEW`, `210609161243OE7SEGDEEF1EW`,  
+> `210613133727KPI7LG6LPJ7EW`, `210613134502GZRKFCTPPMDEW`,  
+> `210613140347UIQBLQMEWJUEW`, `210613142805UNAJXEFPNSEW`  
+> **ACTION:** Verify registration on ccms.govt.bd with all six Order IDs immediately.
 
 ---
 
@@ -239,7 +242,7 @@ These assets have significant evidentiary value and potentially contain transact
 3. **IBM Cloud legal hold** — email legal@us.ibm.com, reference Banani PS case, May 2023.
 4. **Subpoena Brain Station 23 (Dhaka)** — Anichur Rahaman (GitHub: anisAronno) built the SSLCommerz payment integration. Brain Station 23 can be compelled to produce technical payment records.
 5. **InterCloud-BD** — Court order to produce cPanel account t6b1e8wkvbhd registration details (name, address, payment method).
-6. **Nagad** — Demand records for merchant sub-wallets 796120 AND 615520 for June 9, 2021.
+6. **Nagad** — Demand records for merchant sub-wallets **6155, 7961, 2146, 6455, 5412, and 9375** for June 9 and June 13, 2021.
 
 ---
 
@@ -267,7 +270,8 @@ The timing of corporate domain registrations demonstrates premeditated fraud:
 | 2020-07-03 | aleshamart.com | E-commerce platform launched |
 | **2021-04-05** | aleshatechdev.com | Dev infrastructure — fraud operations being built |
 | **2021-06-02** | aleshatech.net | CRM/asset servers — **7 days before SM Nabil's transaction** |
-| **2021-06-09** | SM Nabil's transactions | BDT 500,620 taken |
+| **2021-06-09** | SM Nabil's transactions (2 orders — 2× Yamaha MT-15 155CC Indian) | BDT 5,00,620 taken |
+| **2021-06-13** | SM Nabil's transactions (4 orders — 4× Yamaha R15 BS6 V.3) | BDT 11,18,240 taken |
 | 2021-07–Sep | Alesha Mart collapses | BDT 1,100+ crore in undelivered orders |
 | 2021-11-30 | aleshamart.com last changed | Domain activity ceases |
 | **2030-07-03** | aleshamart.com expiry | Domain still registered — server still live as of 2026 |
@@ -309,7 +313,7 @@ The timing of corporate domain registrations demonstrates premeditated fraud:
 ## PART VIII — IMMEDIATE ACTION CHECKLIST FOR SM NABIL'S LAWYERS
 
 ### THIS WEEK
-- [ ] **Verify CDCC registration** at ccms.govt.bd with both Order IDs (2106091612430E7SEGDEEF1EW and 210609160513SWRWB2AQFCJEW)
+- [ ] **Verify CDCC registration** at ccms.govt.bd with all six Order IDs (210609160513SWRWB2AQFCJEW, 210609161243OE7SEGDEEF1EW, 210613133727KPI7LG6LPJ7EW, 210613134502GZRKFCTPPMDEW, 210613140347UIQBLQMEWJUEW, 210613142805UNAJXEFPNSEW)
 - [ ] **File civil money suit** this week with Sections 18–19 (Limitation Act) arguments — 3-year limitation may have expired
 - [ ] **Contact BLAST** (blast@blast.org.bd / 35, Purana Paltan, Dhaka-1000) for free legal help with writ petition
 - [ ] **File formal written demand** to CDCC by registered post (prerequisite for mandamus)
@@ -318,7 +322,7 @@ The timing of corporate domain registrations demonstrates premeditated fraud:
 - [ ] **File Article 102 writ of mandamus** in High Court Division — name: (1) Secretary, Ministry of Commerce; (2) Governor, Bangladesh Bank; (3) DG, DNCRP; (4) CDCC; (5) Alesha Mart Limited
 - [ ] **Apply as victim-intervenor** in Banani PS money laundering case (May 2023) — demand individual freeze on all 9 sister companies
 - [ ] **Demand CID's full register** of Tk 31 crore in assets purchased January–August 2021
-- [ ] **Demand Nagad** produce settlement records for sub-wallets 796120 and 615520
+- [ ] **Demand Nagad** produce settlement records for sub-wallets **6155, 7961, 2146, 6455, 5412, and 9375**
 - [ ] **Report fugitives to CID** — both Manjurul and Sadia are absconding from 4-year sentence (01320-010111)
 - [ ] **Attachment before judgment (CPC Order 38)** on any unfrozen Alesha entity assets
 
@@ -342,7 +346,7 @@ The timing of corporate domain registrations demonstrates premeditated fraud:
 | IBM Cloud Legal | legal@us.ibm.com |
 | BRACNet Limited (ASN 24342) | Via CID court order |
 | SSLCommerz | Legal notice under PSSA 2014 Section 24 |
-| Nagad | Demand sub-wallets 796120 and 615520 records |
+| Nagad | Demand sub-wallets 6155, 7961, 2146, 6455, 5412, 9375 records |
 | Ministry of Commerce | Abdul Gani Road, Dhaka-1000 |
 | ACC (Anti-Corruption Commission) | www.acc.org.bd |
 

@@ -62,9 +62,17 @@ CASE = {
         "Alesha Telecom",
     ],
 
-    # Transaction targets for cross-reference
-    "merchant_ids": ["NG79612021060967264", "NG61552021060966458"],
-    "order_ids":    ["2106091612430E7SEGDEEF1EW", "210609160513SWRWB2AQFCJEW"],
+    # Transaction targets for cross-reference (all 6 orders)
+    "merchant_ids": [
+        "NG61552021060966458", "NG79612021060967264",
+        "NG21462021061355311", "NG64552021061356312",
+        "NG54122021061358770", "NG93752021061361888",
+    ],
+    "order_ids": [
+        "210609160513SWRWB2AQFCJEW", "210609161243OE7SEGDEEF1EW",
+        "210613133727KPI7LG6LPJ7EW", "210613134502GZRKFCTPPMDEW",
+        "210613140347UIQBLQMEWJUEW", "210613142805UNAJXEFPNSEW",
+    ],
 }
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (LegalOSINT-AssetTracing/1.0)"}
