@@ -16,7 +16,7 @@ four Alesha Mart orders using that cash, loaded into his Nagad accounts.
 
 **The orders are in SM Nabil's name. The money was never his.**
 
-**Total amount at stake: BDT 10,59,740 (confirmed from original invoices)**
+**Total amount at stake: BDT 16,18,860 (confirmed from original invoices — 6 orders)**
 
 ---
 
@@ -114,13 +114,13 @@ do hereby solemnly affirm and state as follows:
    purchasing goods from the Alesha Mart e-commerce platform on behalf of
    Mr. Hasibul Munim and his family.
 
-4. On June 9, 2021 and June 13, 2021, I placed four orders on the Alesha Mart
+4. On June 9, 2021 and June 13, 2021, I placed six orders on the Alesha Mart
    platform using the aforesaid cash, which I had loaded into my Nagad mobile
    financial services account for the purpose of payment. The total amount paid
-   was BDT 10,59,740.00.
+   was BDT 16,18,860.00.
 
 5. The order details are as follows:
-   [list all 4 order IDs, amounts, Merchant Bank IDs]
+   [list all 6 order IDs, amounts, Merchant Bank IDs — see VERIFIED_TRANSACTIONS.md]
 
 6. I wish to state clearly and unequivocally that the money used for these
    purchases was NOT my own money. It was the money of Mrs. [mother's name]
@@ -249,9 +249,9 @@ You need to show it is MORE LIKELY THAN NOT that:
 - [ ] SM Nabil's Nagad account statement for June 2021 (showing deposits and payments)
 
 ### Transaction Documents (Already Have)
-- [x] SSLCommerz invoices for all 4 orders (PDF)
+- [x] SSLCommerz invoices for all 6 orders (PDF)
 - [x] Gmail order confirmations (PDF)
-- [ ] SM Nabil's Nagad account statement showing BDT 10,59,740 in debits June 9 & 13
+- [ ] SM Nabil's Nagad account statement showing BDT 16,18,860 in debits June 9 & 13
 
 ---
 

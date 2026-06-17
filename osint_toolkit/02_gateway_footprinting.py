@@ -6,9 +6,13 @@ Purpose:  Map SSLCommerz/Nagad transaction infrastructure and locate
           in public code repositories, technical documentation, and
           publicly indexed data — for legal asset tracing.
 
-Merchant Bank IDs (evidentiary targets):
-    NG79612021060967264   (Order #2106091612430E7SEGDEEF1EW, BDT 250,310)
-    NG61552021060966458   (Order #210609160513SWRWB2AQFCJEW, BDT 250,310)
+Merchant Bank IDs (evidentiary targets — 6 confirmed paid orders):
+    NG61552021060966458   (Order #210609160513SWRWB2AQFCJEW, BDT 250,310 — June 9)
+    NG79612021060967264   (Order #210609161243OE7SEGDEEF1EW, BDT 250,310 — June 9)
+    NG21462021061355311   (Order #210613133727KPI7LG6LPJ7EW, BDT 279,560 — June 13)
+    NG64552021061356312   (Order #210613134502GZRKFCTPPMDEW, BDT 279,560 — June 13)
+    NG54122021061358770   (Order #210613140347UIQBLQMEWJUEW, BDT 279,560 — June 13)
+    NG93752021061361888   (Order #210613142805UNAJXEFPNSEW,  BDT 279,560 — June 13)
 
 NOTE: All searches target PUBLICLY INDEXED data only.
       Any credentials found in public repos are treated as
@@ -25,8 +29,16 @@ from datetime import datetime, timezone
 from github import Github          # pip install PyGithub
 
 # ── Case-specific constants ───────────────────────────────────────────────────
-MERCHANT_IDS  = ["NG79612021060967264", "NG61552021060966458"]
-ORDER_IDS     = ["2106091612430E7SEGDEEF1EW", "210609160513SWRWB2AQFCJEW"]
+MERCHANT_IDS  = [
+    "NG61552021060966458", "NG79612021060967264",
+    "NG21462021061355311", "NG64552021061356312",
+    "NG54122021061358770", "NG93752021061361888",
+]
+ORDER_IDS     = [
+    "210609160513SWRWB2AQFCJEW", "210609161243OE7SEGDEEF1EW",
+    "210613133727KPI7LG6LPJ7EW", "210613134502GZRKFCTPPMDEW",
+    "210613140347UIQBLQMEWJUEW", "210613142805UNAJXEFPNSEW",
+]
 COMPANY_TERMS = ["aleshamart", "alesha mart", "alesha-mart", "aleshashop",
                  "manjurul alam sikder", "manjur alam sikder"]
 GATEWAY_TERMS = ["sslcommerz", "ssl_commerz", "ssl-commerz"]

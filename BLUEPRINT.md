@@ -1,5 +1,5 @@
 # SM NABIL — MASTER RECOVERY BLUEPRINT
-**Case:** Alesha Mart Fraud | **Claim:** BDT 10,59,740 + damages  
+**Case:** Alesha Mart Fraud | **Claim:** BDT 16,18,860 + damages  
 **Date Compiled:** 2026-06-12  
 **Status of Convicts:** FUGITIVES (arrest warrants issued July 21, 2025)  
 **Blueprint Version:** 1.0 — synthesizes all OSINT, legal, and asset research
@@ -20,8 +20,8 @@ chairman and his wife are convicted and on the run. The infrastructure is
 still live and partly unsecured. There are Tk 31 crore in mystery assets from
 2021 that are not fully frozen. And you can get a lawyer for free.
 
-**Your realistic total claim is BDT 19–50+ lakh depending on documented losses.**
-The BDT 10,59,740 is the floor, not the ceiling.
+**Your realistic total claim is BDT 26–60+ lakh depending on documented losses.**
+The BDT 16,18,860 is the floor, not the ceiling.
 
 ---
 
@@ -29,16 +29,16 @@ The BDT 10,59,740 is the floor, not the ceiling.
 
 | Head of Damages | Amount | Legal Basis |
 |-----------------|--------|-------------|
-| Principal (fraud) | BDT 10,59,740 | Contract Act 1872 |
-| Interest @ 10% × 5 years | BDT 5,29,870 | CPC Section 34, Interest Act 1839 |
-| Inflation adjustment (5 years) | ~BDT 195,000 | Loss of real value |
+| Principal (fraud) | BDT 16,18,860 | Contract Act 1872 |
+| Interest @ 10% × 5 years | BDT 8,09,430 | CPC Section 34, Interest Act 1839 |
+| Inflation adjustment (5 years) | ~BDT 3,00,000 | Loss of real value |
 | Constitutional compensation (Article 42) | BDT 500,000–2,000,000 | CCB Foundation case precedent |
 | Opportunity cost (documented specific loss) | Your figure | Contract Act 1872 Section 73 |
 | Emotional distress / mental anguish | BDT 200,000–500,000 | Constitutional tort |
 | Exemplary damages (deliberate fraud) | BDT 200,000–500,000 | Common law |
 | Legal costs | Actual expenses | CPC costs order |
-| **Conservative total** | **~BDT 19–22 lakh** | |
-| **With strong evidence** | **BDT 30–50 lakh+** | |
+| **Conservative total** | **~BDT 26–30 lakh** | |
+| **With strong evidence** | **BDT 40–60 lakh+** | |
 
 **To unlock the higher range:** Write a personal affidavit NOW documenting
 every financial hardship, missed opportunity, and emotional impact since June 2021.
@@ -54,7 +54,7 @@ TRACK A: WRIT OF MANDAMUS          TRACK B: CIVIL MONEY SUIT         TRACK C: AS
         │                                    │                                   │
         ▼                                    ▼                                   ▼
 High Court Division                  District Civil Court              RJSC + Land Registry
-Article 102 petition                 BDT 10,59,740 + interest          + BRTA + IBM Cloud
+Article 102 petition                 BDT 16,18,860 + interest          + BRTA + IBM Cloud
 NOT time-barred                      FILE THIS WEEK (limitation!)      + CID intervenor
 Fastest path to payment              Attach Sadia's assets             + BRACNet court order
 ```
@@ -81,9 +81,10 @@ Fastest path to payment              Attach Sadia's assets             + BRACNet
 - Rule Nisi demanding all respondents show cause
 - Order CDCC to register and process SM Nabil's claim within 30 days
 - Order Bangladesh Bank to direct SSLCommerz to produce settlement records
-  for Merchant Bank IDs **NG79612021060967264**, **NG61552021060966458**,
-  **NG64552021061356312**, and **NG54122021061358770**
-- Order Nagad to produce records for sub-wallets **796120**, **615520**, **645520**, and **541220**
+  for Merchant Bank IDs **NG61552021060966458**, **NG79612021060967264**,
+  **NG21462021061355311**, **NG64552021061356312**, **NG54122021061358770**,
+  and **NG93752021061361888**
+- Order Nagad to produce records for sub-wallets **6155**, **7961**, **2146**, **6455**, **5412**, and **9375**
 - Interim freeze on any remaining Alesha Mart assets pending hearing
 - Constitutional compensation for 5-year Article 42 (property right) violation
 - Costs of proceedings
@@ -93,7 +94,7 @@ Fastest path to payment              Attach Sadia's assets             + BRACNet
 immune from paying compensation. When the government took custody of Alesha Mart's
 recovery process and then abandoned it for 5 years, it violated Article 42.
 The court can order the government to pay compensation on top of the principal.
-This is how you get more than BDT 10,59,740.
+This is how you get more than BDT 16,18,860.
 
 ### Pre-Requisite: Written Demand Before Filing
 Before filing the writ, send a registered post letter to:
@@ -130,7 +131,7 @@ Standard 3-year limit from June 2021 = June 2024 (MAY HAVE EXPIRED).
 - Leverage to force CDCC to prioritize your registered claim
 
 ### Where to File
-District Civil Court, Dhaka. Claim: BDT 10,59,740 + 10% p.a. interest from June 9, 2021.
+District Civil Court, Dhaka. Claim: BDT 16,18,860 + 10% p.a. interest from June 9, 2021.
 Court fee: calculated on claim value (modest). Your lawyer handles this.
 
 ---
@@ -178,7 +179,7 @@ No court order covers these live systems:
 
 | Asset | Location | What It Contains |
 |-------|----------|-----------------|
-| crm.aleshatech.net | IBM Cloud, Singapore (52.117.117.80) | ALL order records including SM Nabil's two orders |
+| crm.aleshatech.net | IBM Cloud, Singapore (52.117.117.80) | ALL order records including SM Nabil's six orders |
 | gitlab.aleshatechdev.com | BRACNet, Dhaka (115.127.74.86) | Complete source code, API credentials, transaction logs |
 | 36.255.68.240 | InterCloud-BD, Dhaka | Live server, RDP port OPEN, payment databases |
 
@@ -213,8 +214,8 @@ They have experience with exactly this type of e-commerce fraud Article 102 writ
 - Email: blast@blast.org.bd
 - Website: www.blast.org.bd
 - Address: 35 (3rd Floor), Purana Paltan, Dhaka-1000
-- Tell them: "I am a fraud victim of Alesha Mart, BDT 10,59,740, convicted company,
-  government refund process stalled 5 years. I need Article 102 writ and civil suit."
+- Tell them: "I am a fraud victim of Alesha Mart, BDT 16,18,860 across six orders,
+  convicted company, government refund process stalled 5 years. I need Article 102 writ and civil suit."
 
 ### Option 2: Join Existing Writ Petitioners
 These lawyers already filed e-commerce fraud writs in 2021-2022 against the same
@@ -235,9 +236,10 @@ respondents. They may accept SM Nabil as a companion petitioner:
 ### TODAY (Day 0) — Before Anything Else
 - [ ] Write personal hardship affidavit: every financial loss, missed opportunity,
       emotional impact since June 9, 2021. Date it today. Sign it. This is evidence.
-- [ ] Check ccms.govt.bd — verify SM Nabil is registered with ALL FOUR Order IDs:
-      `2106091612430E7SEGDEEF1EW`, `210609160513SWRWB2AQFCJEW`,
-      `210613134502GZRKFCTPPMDEW`, and `210613140347UIQBLQMEWJUEW`
+- [ ] Check ccms.govt.bd — verify SM Nabil is registered with ALL SIX Order IDs:
+      `210609160513SWRWB2AQFCJEW`, `210609161243OE7SEGDEEF1EW`,
+      `210613133727KPI7LG6LPJ7EW`, `210613134502GZRKFCTPPMDEW`,
+      `210613140347UIQBLQMEWJUEW`, and `210613142805UNAJXEFPNSEW`
       If not registered — register immediately. No registration = no refund ever.
 - [ ] Email BLAST: blast@blast.org.bd explaining the case (brief, factual, urgent)
 
@@ -370,12 +372,12 @@ a UK-based lead would be particularly valuable.
 
 | Path | Probability | When | Amount |
 |------|-------------|------|--------|
-| CDCC partial disbursement (after writ forces action) | **High** | 3–6 months | Partial BDT 10,59,740 |
-| Full principal via civil decree + asset attachment | **Medium** | 6–18 months | BDT 10,59,740 + interest |
+| CDCC partial disbursement (after writ forces action) | **High** | 3–6 months | Partial BDT 16,18,860 |
+| Full principal via civil decree + asset attachment | **Medium** | 6–18 months | BDT 16,18,860 + interest |
 | Constitutional compensation via writ (government pays) | **Medium** | 6–12 months | BDT 5–20 lakh additional |
 | Money laundering case liquidation (31cr+ assets) | **Medium** (long) | 1–3 years | Full amount |
 | Foreign asset recovery | **Low** | 2–5 years | Unknown |
-| **Total realistic recovery with strong legal action** | | | **BDT 10–30 lakh** |
+| **Total realistic recovery with strong legal action** | | | **BDT 16–40 lakh** |
 
 **The writ of mandamus is the fastest and safest path to any money.**
 **The civil suit is the safest path to the full amount.**

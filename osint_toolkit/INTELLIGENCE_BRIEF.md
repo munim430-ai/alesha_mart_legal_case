@@ -1,7 +1,7 @@
 # ALESHA MART — OSINT INTELLIGENCE BRIEF
 **Classification:** CONFIDENTIAL — Legal Asset Tracing  
 **Date:** 2026-06-11  
-**Case:** SM NABIL — BDT 10,59,740.00 Recovery  
+**Case:** SM NABIL — BDT 16,18,860.00 Recovery  
 **Tools:** VirusTotal API + GitHub API (live run)
 
 ---
@@ -86,7 +86,7 @@ cbc.aleshatech.net        ← Internal system (CBC)
 
 ### ACTION: Demand CRM records
 `crm.aleshatech.net` is the CRM system that would contain SM Nabil's orders
-(Order IDs 2106091612430E7SEGDEEF1EW and 210609160513SWRWB2AQFCJEW).
+(six Order IDs — see VERIFIED_TRANSACTIONS.md for complete list).
 CID should be directed to obtain a court order for IBM Cloud (Singapore) to
 preserve and produce these records.
 
@@ -160,16 +160,20 @@ contains the definitive record of SSLCommerz credentials used on June 9, 2021.
 
 ## FINDING 5: MERCHANT ID STRUCTURAL DECODE
 
-The two Nagad Merchant Bank IDs have been reverse-engineered:
+All six Nagad Merchant Bank IDs have been reverse-engineered (see VERIFIED_TRANSACTIONS.md):
 
 | ID | Provider | Sub-wallet | Date | Seq |
 |----|----------|-----------|------|-----|
-| NG79612021060967264 | Nagad | 796120 | 2021-06-09 | 67264 |
-| NG61552021060966458 | Nagad | 615520 | 2021-06-09 | 66458 |
+| NG61552021060966458 | Nagad | 6155 | 2021-06-09 | 66458 |
+| NG79612021060967264 | Nagad | 7961 | 2021-06-09 | 67264 |
+| NG21462021061355311 | Nagad | 2146 | 2021-06-13 | 55311 |
+| NG64552021061356312 | Nagad | 6455 | 2021-06-13 | 56312 |
+| NG54122021061358770 | Nagad | 5412 | 2021-06-13 | 58770 |
+| NG93752021061361888 | Nagad | 9375 | 2021-06-13 | 61888 |
 
-Two distinct Nagad merchant sub-wallets (796120 and 615520) are confirmed.
-Alesha Mart operated at least two Nagad merchant wallets simultaneously.
-Demand Nagad to map **both sub-wallet IDs** to the registered merchant entity.
+Six distinct Nagad merchant sub-wallets (6155, 7961, 2146, 6455, 5412, 9375) are confirmed.
+Alesha Mart operated at least six Nagad merchant wallets simultaneously.
+Demand Nagad to map **all six sub-wallet IDs** to the registered merchant entity.
 
 ---
 
@@ -223,8 +227,8 @@ Hosting: InterCloud-BD (primary), BRACNet (dev), IBM Cloud (CRM)
    the development server. InterCloud-BD can be compelled to produce the
    account registration details (name, address, payment method).
 
-6. **Nagad — Two Wallets:** Demand Nagad search for merchant sub-wallets
-   796120 AND 615520 and produce settlement records for both.
+6. **Nagad — Six Wallets:** Demand Nagad search for merchant sub-wallets
+   **6155, 7961, 2146, 6455, 5412, and 9375** and produce settlement records for all six.
 
 ---
 
