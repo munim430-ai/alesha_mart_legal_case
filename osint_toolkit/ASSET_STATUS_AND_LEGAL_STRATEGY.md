@@ -1,7 +1,7 @@
 # ALESHA MART — ASSET STATUS & LEGAL STRATEGY
 **Classification:** CONFIDENTIAL — Legal Strategy Document  
 **Date:** 2026-06-11  
-**For:** SM NABIL — BDT 500,620.00 Recovery  
+**For:** SM NABIL — BDT 10,59,740.00 Recovery  
 **Sources:** Dhaka Tribune, TBS News, The Daily Star, New Age BD, bdnews24, BSS (30+ articles)
 
 ---
@@ -19,7 +19,7 @@
 | Refunded to date (Nov 2024) | Tk 40 crore to 2,296 customers |
 | **Still owed to remaining victims** | **~Tk 258 crore** |
 
-**SM Nabil's BDT 500,620 is 0.050 crore.** Against Tk 258 crore owed to remaining victims
+**SM Nabil's BDT 10,59,740 is 0.106 crore.** Against Tk 258 crore owed to remaining victims
 and only Tk 2.07 crore frozen, the payment gateway escrow route alone is insufficient.
 
 The real money trail leads to the Tk 421 crore money laundering case — that is where
@@ -119,9 +119,11 @@ CDCC Deputy Secretary Md Sayed Ali: delays due to ongoing CID investigation.
 ### TIER 1 — Immediate (This Week)
 
 **1. Verify CDCC Registration (ccms.govt.bd)**
-SM Nabil must be registered on the CDCC portal with both Order IDs:
+SM Nabil must be registered on the CDCC portal with all four Order IDs:
 - `2106091612430E7SEGDEEF1EW`
 - `210609160513SWRWB2AQFCJEW`
+- `210613134502GZRKFCTPPMDEW`
+- `210613140347UIQBLQMEWJUEW`
 If not registered, register immediately. Any disbursement goes only to registered victims.
 
 **2. Writ of Mandamus — Article 102**
@@ -141,7 +143,7 @@ File an application as a victim-intervenor demanding:
 ### TIER 2 — This Month
 
 **4. Separate Civil Money Suit**
-File independently against Alesha Mart Limited for BDT 500,620 + interest.
+File independently against Alesha Mart Limited for BDT 10,59,740 + interest.
 Obtain a civil money decree and use it to attach any asset not covered
 by the criminal freeze order.
 
@@ -150,8 +152,8 @@ Claim interest from June 9, 2021:
 
 | Principal | Rate | Years | Interest |
 |-----------|------|-------|----------|
-| BDT 500,620 | 9% per annum | 5 | BDT 225,279 |
-| **Total Claim** | | | **BDT 725,899** |
+| BDT 10,59,740 | 9% per annum | 5 | BDT 4,76,883 |
+| **Total Claim** | | | **BDT 15,36,623** |
 
 Legal basis: CPC Section 34, Interest Act 1839, CRPA 2009 Section 57.
 
@@ -181,14 +183,14 @@ Send preservation demand to IBM Cloud for crm.aleshatech.net (52.117.117.80):
 
 | Scenario | Probability | Recovery |
 |----------|-------------|----------|
-| CDCC gateway disbursement (escrow funds only) | High but partial | Some fraction of BDT 500,620 |
+| CDCC gateway disbursement (escrow funds only) | High but partial | Some fraction of BDT 10,59,740 |
 | Money laundering case liquidation (Tk 31cr+ assets) | Medium (long timeline) | Full recovery possible |
 | Civil money decree + asset attachment | Medium | Full + interest |
 | Article 102 writ forcing CDCC action | High (forces timeline) | Accelerates disbursement |
 | Tracing foreign assets | Low (no leads yet) | Unknown |
 
 **The realistic position:** SM Nabil will likely recover something through CDCC,
-but the full BDT 500,620 + interest requires the money laundering case to
+but the full BDT 10,59,740 + interest requires the money laundering case to
 reach asset liquidation. A writ of mandamus is the fastest tool to force
 government action. A civil suit is the safest parallel track.
 
@@ -288,7 +290,7 @@ The exact respondents to name (already established by precedent):
 
 **Section 60, Consumer Rights Protection Act 2009:**
 DNCRP's jurisdiction is capped at claims **not exceeding BDT 200,000**.
-SM Nabil's claim is BDT 500,620 — **2.5× the DNCRP limit**.
+SM Nabil's claim is BDT 10,59,740 — **5.3× the DNCRP limit**.
 
 DNCRP was **never the right forum**. The correct forum is:
 - **High Court Division** (Article 102 writ) — for government inaction
@@ -318,8 +320,8 @@ to pay compensation** for the Article 42 (right to property) violation.
 
 | Rate | Principal | 5 Years | Total Claim |
 |------|-----------|---------|-------------|
-| 8% p.a. (conservative) | BDT 500,620 | BDT 200,248 | **BDT 700,868** |
-| 10% p.a. (full claim) | BDT 500,620 | BDT 250,310 | **BDT 750,930** |
+| 8% p.a. (conservative) | BDT 10,59,740 | BDT 4,23,896 | **BDT 14,83,636** |
+| 10% p.a. (full claim) | BDT 10,59,740 | BDT 5,29,870 | **BDT 15,89,610** |
 
 Legal basis: **CPC Section 34** (pre-suit interest), Interest Act 1839, CRPA 2009 Section 57.
 In the writ: claim **constitutional compensation** separately on top of this.

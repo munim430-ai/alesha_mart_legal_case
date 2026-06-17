@@ -1,7 +1,7 @@
 # ALESHA MART — FAMILY NETWORK & ASSET TRACING REPORT
 **Classification:** CONFIDENTIAL — Legal Asset Tracing  
 **Date:** 2026-06-11  
-**Case:** SM NABIL — BDT 500,620.00 Recovery  
+**Case:** SM NABIL — BDT 10,59,740.00 Recovery  
 **Sources:** TBS News, Daily Star, bdnews24, BSS, New Age BD, Prothom Alo (30+ articles)
 
 ---

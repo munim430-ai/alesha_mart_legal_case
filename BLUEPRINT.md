@@ -1,5 +1,5 @@
 # SM NABIL — MASTER RECOVERY BLUEPRINT
-**Case:** Alesha Mart Fraud | **Claim:** BDT 500,620 + damages  
+**Case:** Alesha Mart Fraud | **Claim:** BDT 10,59,740 + damages  
 **Date Compiled:** 2026-06-12  
 **Status of Convicts:** FUGITIVES (arrest warrants issued July 21, 2025)  
 **Blueprint Version:** 1.0 — synthesizes all OSINT, legal, and asset research
@@ -21,7 +21,7 @@ still live and partly unsecured. There are Tk 31 crore in mystery assets from
 2021 that are not fully frozen. And you can get a lawyer for free.
 
 **Your realistic total claim is BDT 19–50+ lakh depending on documented losses.**
-The BDT 500,620 is the floor, not the ceiling.
+The BDT 10,59,740 is the floor, not the ceiling.
 
 ---
 
@@ -29,8 +29,8 @@ The BDT 500,620 is the floor, not the ceiling.
 
 | Head of Damages | Amount | Legal Basis |
 |-----------------|--------|-------------|
-| Principal (fraud) | BDT 500,620 | Contract Act 1872 |
-| Interest @ 10% × 5 years | BDT 250,310 | CPC Section 34, Interest Act 1839 |
+| Principal (fraud) | BDT 10,59,740 | Contract Act 1872 |
+| Interest @ 10% × 5 years | BDT 5,29,870 | CPC Section 34, Interest Act 1839 |
 | Inflation adjustment (5 years) | ~BDT 195,000 | Loss of real value |
 | Constitutional compensation (Article 42) | BDT 500,000–2,000,000 | CCB Foundation case precedent |
 | Opportunity cost (documented specific loss) | Your figure | Contract Act 1872 Section 73 |
@@ -54,7 +54,7 @@ TRACK A: WRIT OF MANDAMUS          TRACK B: CIVIL MONEY SUIT         TRACK C: AS
         │                                    │                                   │
         ▼                                    ▼                                   ▼
 High Court Division                  District Civil Court              RJSC + Land Registry
-Article 102 petition                 BDT 500,620 + interest            + BRTA + IBM Cloud
+Article 102 petition                 BDT 10,59,740 + interest          + BRTA + IBM Cloud
 NOT time-barred                      FILE THIS WEEK (limitation!)      + CID intervenor
 Fastest path to payment              Attach Sadia's assets             + BRACNet court order
 ```
@@ -81,8 +81,9 @@ Fastest path to payment              Attach Sadia's assets             + BRACNet
 - Rule Nisi demanding all respondents show cause
 - Order CDCC to register and process SM Nabil's claim within 30 days
 - Order Bangladesh Bank to direct SSLCommerz to produce settlement records
-  for Merchant Bank IDs **NG79612021060967264** and **NG61552021060966458**
-- Order Nagad to produce records for sub-wallets **796120** and **615520**
+  for Merchant Bank IDs **NG79612021060967264**, **NG61552021060966458**,
+  **NG64552021061356312**, and **NG54122021061358770**
+- Order Nagad to produce records for sub-wallets **796120**, **615520**, **645520**, and **541220**
 - Interim freeze on any remaining Alesha Mart assets pending hearing
 - Constitutional compensation for 5-year Article 42 (property right) violation
 - Costs of proceedings
@@ -92,7 +93,7 @@ Fastest path to payment              Attach Sadia's assets             + BRACNet
 immune from paying compensation. When the government took custody of Alesha Mart's
 recovery process and then abandoned it for 5 years, it violated Article 42.
 The court can order the government to pay compensation on top of the principal.
-This is how you get more than BDT 500,620.
+This is how you get more than BDT 10,59,740.
 
 ### Pre-Requisite: Written Demand Before Filing
 Before filing the writ, send a registered post letter to:
@@ -129,7 +130,7 @@ Standard 3-year limit from June 2021 = June 2024 (MAY HAVE EXPIRED).
 - Leverage to force CDCC to prioritize your registered claim
 
 ### Where to File
-District Civil Court, Dhaka. Claim: BDT 500,620 + 10% p.a. interest from June 9, 2021.
+District Civil Court, Dhaka. Claim: BDT 10,59,740 + 10% p.a. interest from June 9, 2021.
 Court fee: calculated on claim value (modest). Your lawyer handles this.
 
 ---
@@ -212,7 +213,7 @@ They have experience with exactly this type of e-commerce fraud Article 102 writ
 - Email: blast@blast.org.bd
 - Website: www.blast.org.bd
 - Address: 35 (3rd Floor), Purana Paltan, Dhaka-1000
-- Tell them: "I am a fraud victim of Alesha Mart, BDT 500,620, convicted company,
+- Tell them: "I am a fraud victim of Alesha Mart, BDT 10,59,740, convicted company,
   government refund process stalled 5 years. I need Article 102 writ and civil suit."
 
 ### Option 2: Join Existing Writ Petitioners
@@ -234,8 +235,9 @@ respondents. They may accept SM Nabil as a companion petitioner:
 ### TODAY (Day 0) — Before Anything Else
 - [ ] Write personal hardship affidavit: every financial loss, missed opportunity,
       emotional impact since June 9, 2021. Date it today. Sign it. This is evidence.
-- [ ] Check ccms.govt.bd — verify SM Nabil is registered with BOTH Order IDs:
-      `2106091612430E7SEGDEEF1EW` and `210609160513SWRWB2AQFCJEW`
+- [ ] Check ccms.govt.bd — verify SM Nabil is registered with ALL FOUR Order IDs:
+      `2106091612430E7SEGDEEF1EW`, `210609160513SWRWB2AQFCJEW`,
+      `210613134502GZRKFCTPPMDEW`, and `210613140347UIQBLQMEWJUEW`
       If not registered — register immediately. No registration = no refund ever.
 - [ ] Email BLAST: blast@blast.org.bd explaining the case (brief, factual, urgent)
 
@@ -368,8 +370,8 @@ a UK-based lead would be particularly valuable.
 
 | Path | Probability | When | Amount |
 |------|-------------|------|--------|
-| CDCC partial disbursement (after writ forces action) | **High** | 3–6 months | Partial BDT 500,620 |
-| Full principal via civil decree + asset attachment | **Medium** | 6–18 months | BDT 500,620 + interest |
+| CDCC partial disbursement (after writ forces action) | **High** | 3–6 months | Partial BDT 10,59,740 |
+| Full principal via civil decree + asset attachment | **Medium** | 6–18 months | BDT 10,59,740 + interest |
 | Constitutional compensation via writ (government pays) | **Medium** | 6–12 months | BDT 5–20 lakh additional |
 | Money laundering case liquidation (31cr+ assets) | **Medium** (long) | 1–3 years | Full amount |
 | Foreign asset recovery | **Low** | 2–5 years | Unknown |

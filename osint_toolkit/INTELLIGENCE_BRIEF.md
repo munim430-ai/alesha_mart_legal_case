@@ -1,7 +1,7 @@
 # ALESHA MART — OSINT INTELLIGENCE BRIEF
 **Classification:** CONFIDENTIAL — Legal Asset Tracing  
 **Date:** 2026-06-11  
-**Case:** SM NABIL — BDT 500,620.00 Recovery  
+**Case:** SM NABIL — BDT 10,59,740.00 Recovery  
 **Tools:** VirusTotal API + GitHub API (live run)
 
 ---

@@ -1,6 +1,6 @@
 # ALESHA MART FRAUD RECOVERY — LEGAL ACTION DOSSIER
 **Case Reference:** SM NABIL vs. Alesha Mart Ltd. / SSLCommerz / CDCC  
-**Claim:** BDT 500,620.00 | **Transaction Date:** June 9, 2021  
+**Claim:** BDT 10,59,740.00 | **Transaction Dates:** June 9 & 13, 2021  
 **Prepared:** June 11, 2026  
 **Classification:** CONFIDENTIAL — ATTORNEY-CLIENT PRIVILEGED
 
@@ -20,9 +20,9 @@ The operative legal question is not whether the *policy* protected you — it di
 
 SSLCommerz's standard settlement cycle for Nagad transactions in 2021 was **T+1 to T+3 business days.** This means:
 
-- Nagad deducted BDT 500,620 from SM Nabil's wallet on **June 9, 2021**
-- SSLCommerz would have initiated settlement to Alesha Mart's merchant account by approximately **June 10–12, 2021**
-- The **Merchant Bank IDs NG79612021060967264 and NG61552021060966458** are Nagad-generated transaction references, not SSLCommerz settlement IDs
+- Nagad deducted BDT 10,59,740 from SM Nabil's wallet across **June 9 and June 13, 2021**
+- SSLCommerz would have initiated settlement to Alesha Mart's merchant account by approximately **June 10–16, 2021**
+- The **Merchant Bank IDs NG79612021060967264, NG61552021060966458, NG64552021061356312, and NG54122021061358770** are Nagad-generated transaction references, not SSLCommerz settlement IDs
 
 **Three possible fund states exist:**
 
@@ -65,12 +65,16 @@ SM Nabil must prepare **5 certified document packets**, each containing:
 1. National ID Card (NID) — certified photocopy (both sides)
 2. Nagad account statement for June 2021 — download from Nagad app → Statement → filter June 1–30, 2021 — print and sign each page
 3. Screenshot/printout of both order confirmation emails from Alesha Mart
-4. Proof of Order IDs:
-   - Order 1: `2106091612430E7SEGDEEF1EW` — Amount: BDT 250,310.00
-   - Order 2: `210609160513SWRWB2AQFCJEW` — Amount: BDT 250,310.00
-5. Nagad Merchant Bank IDs:
+4. Proof of Order IDs (all four):
+   - Order 1: `2106091612430E7SEGDEEF1EW` — Amount: BDT 2,50,310.00 (June 9)
+   - Order 2: `210609160513SWRWB2AQFCJEW` — Amount: BDT 2,50,310.00 (June 9)
+   - Order 3: `210613134502GZRKFCTPPMDEW` — Amount: BDT 2,79,560.00 (June 13 — Yamaha R15 BS6 V.3)
+   - Order 4: `210613140347UIQBLQMEWJUEW` — Amount: BDT 2,79,560.00 (June 13 — Yamaha R15 BS6 V.3)
+5. Nagad Merchant Bank IDs (all four):
    - `NG79612021060967264`
    - `NG61552021060966458`
+   - `NG64552021061356312`
+   - `NG54122021061358770`
 6. A signed affidavit on BDT 300 non-judicial stamp paper (available at any court stationer) attesting to the transaction facts and non-receipt of goods
 
 **Affidavit notarization:** Take to any 1st Class Magistrate or Notary Public. Cost: BDT 500–1,000. Time: 1–2 hours at any court building in Dhaka.
@@ -81,7 +85,7 @@ Email the following simultaneously from a professional email account:
 
 **To:** cdcc@mincom.gov.bd; info@sslcommerz.com; complaint@dncrp.gov.bd  
 **CC:** psd@bb.org.bd; ec@bb.org.bd (Bangladesh Bank Economic Intelligence Unit)  
-**Subject:** URGENT — Alesha Mart Fraud Recovery: Nagad MFS Transaction BDT 500,620 — Merchant Bank IDs NG79612021060967264 & NG61552021060966458 — SM NABIL (NID: [NID NUMBER])
+**Subject:** URGENT — Alesha Mart Fraud Recovery: Nagad MFS Transactions BDT 10,59,740 — 4 Orders (June 9 & 13, 2021) — Merchant Bank IDs NG79612021060967264, NG61552021060966458, NG64552021061356312, NG54122021061358770 — SM NABIL (NID: [NID NUMBER])
 
 Attach scans of all documents. Use the legal notice template in Part III.
 
@@ -92,7 +96,7 @@ Obtain a **certified bank statement from Nagad** showing the two debit transacti
 **Nagad Head Office:** House 37, Road 2, Dhanmondi R/A, Dhaka 1205  
 **Email:** info@nagad.com.bd | Call: 16167  
 
-Request: "Certified transaction record for MFS transactions dated June 9, 2021, bearing Merchant Bank IDs NG79612021060967264 and NG61552021060966458, for account holder SM NABIL, mobile [MOBILE NUMBER]."
+Request: "Certified transaction records for MFS transactions dated June 9 and June 13, 2021, bearing Merchant Bank IDs NG79612021060967264, NG61552021060966458, NG64552021061356312, and NG54122021061358770, for account holder SM NABIL, mobile [MOBILE NUMBER]."
 
 Nagad is obligated under **Bangladesh Bank's MFS Guidelines Clause 11.2** to provide certified transaction records within 7 working days.
 
@@ -117,7 +121,7 @@ Nagad is obligated under **Bangladesh Bank's MFS Guidelines Clause 11.2** to pro
 
 **Critical ask:** Request a copy of DNCRP's internal communication with the CDCC regarding Alesha Mart fund distribution. This is a public record under the **Right to Information Act, 2009**.
 
-**Script for the officer:** *"Sir, I have a verified, documented claim with specific payment gateway transaction IDs for BDT 500,620 paid via Nagad-SSLCommerz on June 9, 2021. I am not asking for a general complaint — I am asking DNCRP to use its statutory investigative authority under Section 8(b) of the CRPA 2009 to compel SSLCommerz to confirm whether these specific funds remain in a nodal account or were swept to Alesha Mart's seized merchant account, so that I can be properly registered in the CDCC victim pool."*
+**Script for the officer:** *"Sir, I have a verified, documented claim with specific payment gateway transaction IDs for BDT 10,59,740 paid via Nagad-SSLCommerz across June 9 and June 13, 2021 — four separate orders. I am not asking for a general complaint — I am asking DNCRP to use its statutory investigative authority under Section 8(b) of the CRPA 2009 to compel SSLCommerz to confirm whether these specific funds remain in a nodal account or were swept to Alesha Mart's seized merchant account, so that I can be properly registered in the CDCC victim pool."*
 
 ---
 
@@ -160,8 +164,8 @@ If anyone tries to redirect you to an online portal — refuse. Insist on physic
 **Who to see:** The Head of Compliance, Head of Merchant Operations, or the CEO/MD's office. Use the words "Legal Demand" and "Regulatory Inquiry" at reception — these words escalate you immediately.
 
 **What to demand in writing:**
-1. A written confirmation of the settlement status of transactions bearing Merchant Bank IDs **NG79612021060967264** and **NG61552021060966458**
-2. Copies of the SSLCommerz-to-Alesha Mart settlement records for June 9–15, 2021
+1. A written confirmation of the settlement status of all four transactions bearing Merchant Bank IDs **NG79612021060967264**, **NG61552021060966458**, **NG64552021061356312**, and **NG54122021061358770**
+2. Copies of the SSLCommerz-to-Alesha Mart settlement records for June 9–16, 2021
 3. Whether any government freeze/seizure order covers these transaction IDs
 4. A formal response within 7 working days (or they face DNCRP referral and BB regulatory action)
 
@@ -256,7 +260,7 @@ Kawran Bazar, Dhaka 1215
 1. Head, Central Digital Commerce Cell (CDCC), Ministry of Commerce, Bangladesh Secretariat, Dhaka 1000
 2. Payment Systems Department, Bangladesh Bank, Motijheel, Dhaka 1000
 
-**Subject: Formal Complaint Under Section 57 of the Consumer Rights Protection Act, 2009 — E-Commerce Fraud Recovery — BDT 500,620.00 — Alesha Mart Limited — Specific Nagad-SSLCommerz Transaction IDs**
+**Subject: Formal Complaint Under Section 57 of the Consumer Rights Protection Act, 2009 — E-Commerce Fraud Recovery — BDT 10,59,740.00 (4 Orders, June 9 & 13, 2021) — Alesha Mart Limited — Specific Nagad-SSLCommerz Transaction IDs**
 
 Honorable Director General,
 
@@ -264,17 +268,17 @@ I, **SM NABIL**, son of [FATHER'S NAME], holder of National Identity Card No. [N
 
 **STATEMENT OF FACTS:**
 
-1. On June 9, 2021, I placed two orders on the Alesha Mart e-commerce platform (www.aleshamart.com), paying a total of **BDT 500,620.00** (Five Lac Six Hundred Twenty Taka only) via Nagad mobile financial services, processed through the SSLCommerz payment gateway.
+1. On June 9 and June 13, 2021, I placed four orders on the Alesha Mart e-commerce platform (www.aleshamart.com), paying a total of **BDT 10,59,740.00** (Ten Lac Fifty-Nine Thousand Seven Hundred Forty Taka only) via Nagad mobile financial services, processed through the SSLCommerz payment gateway.
 
 2. The specific transaction details are as follows:
 
-| Particulars | Order 1 | Order 2 |
-|-------------|---------|---------|
-| Order ID | 2106091612430E7SEGDEEF1EW | 210609160513SWRWB2AQFCJEW |
-| Nagad Merchant Bank ID | NG79612021060967264 | NG61552021060966458 |
-| Amount | BDT 250,310.00 | BDT 250,310.00 |
-| Date | June 9, 2021 | June 9, 2021 |
-| Payment Method | Nagad via SSLCommerz | Nagad via SSLCommerz |
+| Particulars | Order 1 | Order 2 | Order 3 | Order 4 |
+|-------------|---------|---------|---------|---------|
+| Order ID | 2106091612430E7SEGDEEF1EW | 210609160513SWRWB2AQFCJEW | 210613134502GZRKFCTPPMDEW | 210613140347UIQBLQMEWJUEW |
+| Nagad Merchant Bank ID | NG79612021060967264 | NG61552021060966458 | NG64552021061356312 | NG54122021061358770 |
+| Amount | BDT 2,50,310.00 | BDT 2,50,310.00 | BDT 2,79,560.00 | BDT 2,79,560.00 |
+| Date | June 9, 2021 | June 9, 2021 | June 13, 2021 | June 13, 2021 |
+| Payment Method | Nagad via SSLCommerz | Nagad via SSLCommerz | Nagad via SSLCommerz | Nagad via SSLCommerz |
 
 3. The goods were never delivered. Alesha Mart Limited subsequently collapsed, and its Chairman, Md. Manjurul Alam Sikder, and his spouse have been convicted and sentenced to imprisonment in [COURT NAME, CASE NUMBER], and the company's assets have been frozen by order of the Hon'ble Court.
 
@@ -292,7 +296,7 @@ I respectfully pray that your Directorate be pleased to:
 
 a) Register this complaint and issue a formal Investigation Reference Number;
 
-b) Exercise your statutory power under Section 8(b) of the CRPA 2009 to direct SSLCommerz Bangladesh (Registered PSP, Licensed by Bangladesh Bank) to furnish within 7 (seven) working days the complete settlement records for Nagad Merchant Bank IDs **NG79612021060967264** and **NG61552021060966458**, including: (i) date of settlement to Alesha Mart's merchant account, (ii) the receiving bank account details, and (iii) whether any freeze/seizure order currently covers these specific transaction funds;
+b) Exercise your statutory power under Section 8(b) of the CRPA 2009 to direct SSLCommerz Bangladesh (Registered PSP, Licensed by Bangladesh Bank) to furnish within 7 (seven) working days the complete settlement records for all four Nagad Merchant Bank IDs — **NG79612021060967264**, **NG61552021060966458**, **NG64552021061356312**, and **NG54122021061358770** — including: (i) date of settlement to Alesha Mart's merchant account, (ii) the receiving bank account details, and (iii) whether any freeze/seizure order currently covers these specific transaction funds;
 
 c) Forward your findings and my verified victim status to the Central Digital Commerce Cell (CDCC), Ministry of Commerce, for priority registration in the Alesha Mart consumer refund pool;
 
@@ -334,7 +338,7 @@ Abdul Gani Road, Dhaka 1000
 2. Director General, DNCRP, Kawran Bazar, Dhaka 1215
 3. General Manager, Payment Systems Department, Bangladesh Bank, Motijheel, Dhaka 1000
 
-**Subject: Application for Victim Registration and Priority Refund Processing — Alesha Mart E-Commerce Fraud — Verified Nagad-SSLCommerz Transactions — BDT 500,620.00 — SM NABIL**
+**Subject: Application for Victim Registration and Priority Refund Processing — Alesha Mart E-Commerce Fraud — Verified Nagad-SSLCommerz Transactions (4 Orders, June 9 & 13, 2021) — BDT 10,59,740.00 — SM NABIL**
 
 Honorable Head,
 
@@ -352,15 +356,21 @@ I write with utmost urgency to formally register my verified consumer claim agai
 
 | Item | Detail |
 |------|--------|
-| Total Claim Amount | BDT 500,620.00 (Five Lac Six Hundred Twenty Taka) |
-| Transaction Date | June 9, 2021 |
+| Total Claim Amount | BDT 10,59,740.00 (Ten Lac Fifty-Nine Thousand Seven Hundred Forty Taka) |
+| Transaction Dates | June 9, 2021 and June 13, 2021 |
 | Payment Channel | Nagad MFS via SSLCommerz Gateway |
 | Order ID 1 | 2106091612430E7SEGDEEF1EW |
 | Merchant Bank ID 1 | NG79612021060967264 |
-| Amount 1 | BDT 250,310.00 |
+| Amount 1 | BDT 2,50,310.00 |
 | Order ID 2 | 210609160513SWRWB2AQFCJEW |
 | Merchant Bank ID 2 | NG61552021060966458 |
-| Amount 2 | BDT 250,310.00 |
+| Amount 2 | BDT 2,50,310.00 |
+| Order ID 3 | 210613134502GZRKFCTPPMDEW |
+| Merchant Bank ID 3 | NG64552021061356312 |
+| Amount 3 | BDT 2,79,560.00 |
+| Order ID 4 | 210613140347UIQBLQMEWJUEW |
+| Merchant Bank ID 4 | NG54122021061358770 |
+| Amount 4 | BDT 2,79,560.00 |
 | Goods Received | NIL |
 
 **BASIS OF APPLICATION:**
@@ -412,7 +422,7 @@ Dhaka, Bangladesh
 1. General Manager, Payment Systems Department, Bangladesh Bank, Motijheel C/A, Dhaka 1000
 2. Director General, DNCRP, TC Tower, Kawran Bazar, Dhaka 1215
 
-**Subject: LEGAL DEMAND NOTICE — Compelled Disclosure of Transaction Settlement Records — Specific Nagad Merchant Bank IDs — Payment and Settlement Systems Act, 2014 — Section 24 — BDT 500,620.00 — SM NABIL**
+**Subject: LEGAL DEMAND NOTICE — Compelled Disclosure of Transaction Settlement Records — Specific Nagad Merchant Bank IDs — Payment and Settlement Systems Act, 2014 — Section 24 — BDT 10,59,740.00 (4 Orders) — SM NABIL**
 
 To Whom It May Concern,
 
@@ -420,17 +430,27 @@ I, **SM NABIL** (NID: [NID NUMBER]), through this formal Legal Demand Notice, he
 
 **BACKGROUND:**
 
-On June 9, 2021, I completed two purchase transactions on the Alesha Mart e-commerce platform using Nagad MFS, processed through SSLCommerz's payment gateway. The specific transaction identifiers are:
+On June 9 and June 13, 2021, I completed four purchase transactions on the Alesha Mart e-commerce platform using Nagad MFS, processed through SSLCommerz's payment gateway. The specific transaction identifiers are:
 
 **Transaction 1:**
 - SSLCommerz/Nagad Merchant Bank ID: **NG79612021060967264**
-- Amount: BDT 250,310.00
+- Amount: BDT 2,50,310.00
 - Date: June 9, 2021
 
 **Transaction 2:**
 - SSLCommerz/Nagad Merchant Bank ID: **NG61552021060966458**
-- Amount: BDT 250,310.00
+- Amount: BDT 2,50,310.00
 - Date: June 9, 2021
+
+**Transaction 3:**
+- SSLCommerz/Nagad Merchant Bank ID: **NG64552021061356312**
+- Amount: BDT 2,79,560.00
+- Date: June 13, 2021
+
+**Transaction 4:**
+- SSLCommerz/Nagad Merchant Bank ID: **NG54122021061358770**
+- Amount: BDT 2,79,560.00
+- Date: June 13, 2021
 
 Alesha Mart Limited has subsequently been the subject of criminal prosecution. Its principals have been convicted and its assets frozen. I have received no delivery of goods and no refund.
 
@@ -522,7 +542,7 @@ The Government of Bangladesh publicly announced, through the Ministry of Commerc
 
 **Ground 5 — Right to Property (Article 42)**
 
-Article 42 of the Constitution guarantees the right to property. The Petitioner's BDT 500,620 represents his property, paid in exchange for undelivered goods. The continued administrative inaction in tracing, securing, and returning these funds constitutes a **constructive deprivation of property** without lawful authority.
+Article 42 of the Constitution guarantees the right to property. The Petitioner's BDT 10,59,740 represents his property, paid in exchange for undelivered goods. The continued administrative inaction in tracing, securing, and returning these funds constitutes a **constructive deprivation of property** without lawful authority.
 
 ### 4.4 Relief to Be Sought in the Writ Petition
 
@@ -532,11 +552,11 @@ a) A **Rule Nisi** calling upon the Respondents to show cause why a writ in the 
 
 b) An order directing **Respondent No. 1** (Commerce Ministry/CDCC) to register the Petitioner as a verified victim in the Alesha Mart refund pool within 15 days of the order;
 
-c) An order directing **Respondent No. 2** (Bangladesh Bank) to issue a formal directive to **Respondent No. 3** (SSLCommerz) under Section 24 of the PSSA 2014 to furnish complete settlement records for Merchant Bank IDs NG79612021060967264 and NG61552021060966458 within 7 days;
+c) An order directing **Respondent No. 2** (Bangladesh Bank) to issue a formal directive to **Respondent No. 3** (SSLCommerz) under Section 24 of the PSSA 2014 to furnish complete settlement records for all four Merchant Bank IDs — NG79612021060967264, NG61552021060966458, NG64552021061356312, and NG54122021061358770 — within 7 days;
 
 d) An **interim injunction** (Rule XXXIX, Code of Civil Procedure) or interlocutory order restraining the disposal or release of any funds in SSLCommerz's nodal accounts attributable to Alesha Mart merchant transactions pending hearing and disposal of this petition;
 
-e) An order directing the refund of BDT 500,620.00 to the Petitioner's Nagad account ([MOBILE NUMBER]) within 30 days of final order;
+e) An order directing the refund of BDT 10,59,740.00 to the Petitioner's Nagad account ([MOBILE NUMBER]) within 30 days of final order;
 
 f) Costs of the proceedings;
 
@@ -563,7 +583,7 @@ Engage an Advocate enrolled with the Bangladesh Bar Council who practices before
 - Supreme Court Bar Association: Dhaka, adjacent to the Supreme Court building
 - Bangladesh Bar Council: 15 Purana Paltan, Dhaka 1000
 
-Estimated legal cost for writ petition: BDT 50,000–150,000 depending on advocate seniority. Given the BDT 500,620 claim, this is commercially rational.
+Estimated legal cost for writ petition: BDT 50,000–150,000 depending on advocate seniority. Given the BDT 10,59,740 claim, this is commercially rational.
 
 ---
 

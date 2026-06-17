@@ -1,6 +1,6 @@
 # ALESHA MART — FAMILY & ASSOCIATE ASSET MAP
 **Classification:** CONFIDENTIAL — Legal Asset Tracing  
-**Case:** SM NABIL — BDT 500,620.00 Recovery  
+**Case:** SM NABIL — BDT 10,59,740.00 Recovery  
 **Version:** 2.0 — Updated after live OSINT run (2026-06-11)  
 **Purpose:** Identify all assets held by Manjurul Alam Sikder, his family, co-accused, and affiliated entities for court-ordered seizure and recovery proceedings.  
 **Sources:** CID financial crime investigation, Bangladesh court orders, TBS News, Dhaka Tribune, New Age BD, The Daily Star, The Financial Express, BSS, Prothom Alo (ground reporting from Kaliakoir), DNCRP, VirusTotal, crt.sh, D&B, RJSC portal, bdnews24
@@ -209,7 +209,7 @@ in public statements, but:
 |---------|------------|-----------------|-----------|--------|
 | Central Bank escrow (SSLCommerz/Nagad/others) | Tk 534 crore detected | Tk 476.02 crore to 95,923 customers (as of Oct 2025) | **~Tk 58 crore remaining** | Active CDCC process — stalled |
 
-> **SM Nabil's claim** (BDT 500,620) may be in this Tk 58 crore pool.  
+> **SM Nabil's claim** (BDT 10,59,740) may be in this Tk 58 crore pool.  
 > **Nagad sub-wallets:** 796120 and 615520 — two merchant sub-wallets confirmed for Alesha Mart  
 > **SM Nabil's Order IDs:** 2106091612430E7SEGDEEF1EW and 210609160513SWRWB2AQFCJEW  
 > **ACTION:** Verify registration on ccms.govt.bd with both Order IDs immediately.
@@ -267,7 +267,8 @@ The timing of corporate domain registrations demonstrates premeditated fraud:
 | 2020-07-03 | aleshamart.com | E-commerce platform launched |
 | **2021-04-05** | aleshatechdev.com | Dev infrastructure — fraud operations being built |
 | **2021-06-02** | aleshatech.net | CRM/asset servers — **7 days before SM Nabil's transaction** |
-| **2021-06-09** | SM Nabil's transactions | BDT 500,620 taken |
+| **2021-06-09** | SM Nabil's transactions (2 orders) | BDT 5,00,620 taken |
+| **2021-06-13** | SM Nabil's transactions (2 orders — 2× Yamaha R15 BS6 V.3) | BDT 5,59,120 taken |
 | 2021-07–Sep | Alesha Mart collapses | BDT 1,100+ crore in undelivered orders |
 | 2021-11-30 | aleshamart.com last changed | Domain activity ceases |
 | **2030-07-03** | aleshamart.com expiry | Domain still registered — server still live as of 2026 |
