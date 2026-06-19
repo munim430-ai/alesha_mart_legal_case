@@ -1,0 +1,86 @@
+{
+  "phase": "PHASE 3: Director & Ownership Mapping",
+  "methodology": "Extract director names from RJSC, cross-reference against ICIJ leaks and professional profiles",
+  "cases": {
+    "CASE_1_NAGAD_EXIM": {
+      "step_1_extract_directors": {
+        "source": "RJSC Bangladesh (roc.gov.bd)",
+        "action": "Query each entity, extract Form XII director names"
+      },
+      "step_2_cross_reference_icij": {
+        "source": "ICIJ Offshore Leaks (offshoreleaks.icij.org)",
+        "action": "Search each director name for offshore company connections"
+      },
+      "step_3_opencorporates_check": {
+        "source": "OpenCorporates (opencorporates.com)",
+        "action": "Search each director for directorships in other jurisdictions"
+      },
+      "step_4_address_pivoting": {
+        "action": "Identify entities registered at the SAME address = potential shell network"
+      },
+      "step_5_linkedin_professional": {
+        "action": "Professional profiles only (LinkedIn company pages, board bios, conference speakers)"
+      }
+    },
+    "CASE_2_MEGHNACLOUD": {
+      "step_1_extract_directors": {
+        "source": "RJSC Bangladesh (roc.gov.bd)",
+        "action": "Query each entity, extract Form XII director names"
+      },
+      "step_2_cross_reference_icij": {
+        "source": "ICIJ Offshore Leaks (offshoreleaks.icij.org)",
+        "action": "Search each director name for offshore company connections"
+      },
+      "step_3_opencorporates_check": {
+        "source": "OpenCorporates (opencorporates.com)",
+        "action": "Search each director for directorships in other jurisdictions"
+      },
+      "step_4_address_pivoting": {
+        "action": "Identify entities registered at the SAME address = potential shell network"
+      },
+      "step_5_linkedin_professional": {
+        "action": "Professional profiles only (LinkedIn company pages, board bios, conference speakers)"
+      }
+    },
+    "CASE_3_EGP_SYNDICATE": {
+      "step_1_extract_directors": {
+        "source": "RJSC Bangladesh (roc.gov.bd)",
+        "action": "Query each entity, extract Form XII director names"
+      },
+      "step_2_cross_reference_icij": {
+        "source": "ICIJ Offshore Leaks (offshoreleaks.icij.org)",
+        "action": "Search each director name for offshore company connections"
+      },
+      "step_3_opencorporates_check": {
+        "source": "OpenCorporates (opencorporates.com)",
+        "action": "Search each director for directorships in other jurisdictions"
+      },
+      "step_4_address_pivoting": {
+        "action": "Identify entities registered at the SAME address = potential shell network"
+      },
+      "step_5_linkedin_professional": {
+        "action": "Professional profiles only (LinkedIn company pages, board bios, conference speakers)"
+      }
+    },
+    "CASE_4_EMERGENCY_HEALTH": {
+      "step_1_extract_directors": {
+        "source": "RJSC Bangladesh (roc.gov.bd)",
+        "action": "Query each entity, extract Form XII director names"
+      },
+      "step_2_cross_reference_icij": {
+        "source": "ICIJ Offshore Leaks (offshoreleaks.icij.org)",
+        "action": "Search each director name for offshore company connections"
+      },
+      "step_3_opencorporates_check": {
+        "source": "OpenCorporates (opencorporates.com)",
+        "action": "Search each director for directorships in other jurisdictions"
+      },
+      "step_4_address_pivoting": {
+        "action": "Identify entities registered at the SAME address = potential shell network"
+      },
+      "step_5_linkedin_professional": {
+        "action": "Professional profiles only (LinkedIn company pages, board bios, conference speakers)"
+      }
+    }
+  }
+}

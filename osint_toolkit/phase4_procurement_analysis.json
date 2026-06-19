@@ -1,0 +1,36 @@
+{
+  "phase": "PHASE 4: Procurement Pattern Analysis",
+  "case": "CASE_3_EGP_SYNDICATE",
+  "methodology": "Export all tenders where \u22652 of {OrangeBD, Tappware, SoftBD} bid, analyze patterns",
+  "signals": {
+    "bid_rotation": {
+      "definition": "Predictable winner rotation (Entity A wins in Month X, Entity B in Month Y)",
+      "red_flag": "High: indicates pre-arranged winner assignments"
+    },
+    "complementary_bidding": {
+      "definition": "Consistent bid margins (e.g., winner always 5% lower than runner-up)",
+      "red_flag": "High: indicates knowledge of competitors' bids"
+    },
+    "identical_boilerplate": {
+      "definition": "Technical proposals share identical text, formatting, or rare phrases",
+      "red_flag": "Medium-High: indicates shared proposal source"
+    },
+    "bidder_exclusion": {
+      "definition": "When all three bid, smaller competitors bid unusually high or withdraw",
+      "red_flag": "Medium: indicates coordination to favor certain players"
+    }
+  },
+  "data_extraction": {
+    "source": "e-GP portal (eprocure.gov.bd)",
+    "fields": [
+      "Tender ID",
+      "Tender date",
+      "Contract value",
+      "Bidder name",
+      "Bid amount",
+      "Bid date/time",
+      "Award decision",
+      "Technical proposal (text)"
+    ]
+  }
+}
