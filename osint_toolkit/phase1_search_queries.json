@@ -1,0 +1,186 @@
+{
+  "generated_at": "2026-06-19T01:55:51.883812",
+  "phase": "PHASE 1: Search Query Generation",
+  "cases": {
+    "CASE_1_NAGAD_EXIM": {
+      "title": "Nagad / Third Wave Technologies / Exim Bank Loan (Feb 2021)",
+      "google_dorks": [
+        "\"Third Wave Technologies\" site:roc.gov.bd",
+        "\"Third Wave Technologies\" filetype:pdf government",
+        "\"Third Wave Technologies\" \"annual report\" OR \"audit\"",
+        "\"Nagad\" site:roc.gov.bd",
+        "\"Nagad\" filetype:pdf government",
+        "\"Nagad\" \"annual report\" OR \"audit\"",
+        "\"Exim Bank\" site:roc.gov.bd",
+        "\"Exim Bank\" filetype:pdf government",
+        "\"Exim Bank\" \"annual report\" OR \"audit\"",
+        "\"Tk 500 crore\" government Bangladesh",
+        "\"deficit\" government Bangladesh",
+        "\"fund diversion\" government Bangladesh"
+      ],
+      "registry_queries": {
+        "rjsc": "site:roc.gov.bd 'Third Wave'",
+        "opencorp": "opencorporates.com 'Third Wave' Bangladesh",
+        "icij": "offshoreleaks.icij.org search directors"
+      },
+      "data_sources": [
+        [
+          "RJSC Registry",
+          "roc.gov.bd"
+        ],
+        [
+          "Bangladesh Bank",
+          "bb.org.bd"
+        ],
+        [
+          "Ministry of Finance",
+          "mof.gov.bd"
+        ],
+        [
+          "Nagad Press Releases",
+          "nagad.com.bd"
+        ],
+        [
+          "News Archives",
+          "bdnews24.com, dhakatribune.com"
+        ]
+      ]
+    },
+    "CASE_2_MEGHNACLOUD": {
+      "title": "Meghna Cloud / BDCCL / GenNext Technologies",
+      "google_dorks": [
+        "\"GenNext Technologies\" site:roc.gov.bd",
+        "\"GenNext Technologies\" filetype:pdf government",
+        "\"GenNext Technologies\" \"annual report\" OR \"audit\"",
+        "\"Meghna Cloud\" site:roc.gov.bd",
+        "\"Meghna Cloud\" filetype:pdf government",
+        "\"Meghna Cloud\" \"annual report\" OR \"audit\"",
+        "\"BDCCL\" site:roc.gov.bd",
+        "\"BDCCL\" filetype:pdf government",
+        "\"BDCCL\" \"annual report\" OR \"audit\"",
+        "\"76/24 revenue split\" government Bangladesh",
+        "\"cloud service\" government Bangladesh",
+        "\"contract asymmetry\" government Bangladesh"
+      ],
+      "registry_queries": {
+        "rjsc": "site:roc.gov.bd 'GenNext'",
+        "whois": "SecurityTrails/WhoisXMLAPI meghnacloud.com historical",
+        "opencorp": "opencorporates.com GenNext Bangladesh"
+      },
+      "data_sources": [
+        [
+          "RJSC Registry",
+          "roc.gov.bd"
+        ],
+        [
+          "BDCCL Tenders",
+          "bcc.gov.bd or bdccl.gov.bd"
+        ],
+        [
+          "BTRC Reports",
+          "btrc.gov.bd"
+        ],
+        [
+          "Domain WHOIS",
+          "whoisxml.com, securitytrails.com"
+        ],
+        [
+          "DNS History",
+          "ViewDNS, Censys"
+        ]
+      ]
+    },
+    "CASE_3_EGP_SYNDICATE": {
+      "title": "e-GP Syndicate: OrangeBD, Tappware Solutions, SoftBD",
+      "google_dorks": [
+        "\"OrangeBD\" site:roc.gov.bd",
+        "\"OrangeBD\" filetype:pdf government",
+        "\"OrangeBD\" \"annual report\" OR \"audit\"",
+        "\"Tappware Solutions\" site:roc.gov.bd",
+        "\"Tappware Solutions\" filetype:pdf government",
+        "\"Tappware Solutions\" \"annual report\" OR \"audit\"",
+        "\"SoftBD\" site:roc.gov.bd",
+        "\"SoftBD\" filetype:pdf government",
+        "\"SoftBD\" \"annual report\" OR \"audit\"",
+        "\"bid rotation\" government Bangladesh",
+        "\"collusive bidding\" government Bangladesh",
+        "\"complementary bids\" government Bangladesh"
+      ],
+      "registry_queries": {
+        "egp": "site:eprocure.gov.bd OrangeBD OR Tappware OR SoftBD",
+        "cptu": "site:cptu.gov.bd tender award",
+        "rjsc": "site:roc.gov.bd (OrangeBD OR Tappware OR SoftBD)"
+      },
+      "data_sources": [
+        [
+          "e-GP Portal",
+          "eprocure.gov.bd"
+        ],
+        [
+          "CPTU Archives",
+          "cptu.gov.bd"
+        ],
+        [
+          "RJSC Registry",
+          "roc.gov.bd"
+        ],
+        [
+          "Reverse-IP Analysis",
+          "SecurityTrails, ViewDNS"
+        ],
+        [
+          "Shared Analytics",
+          "BuiltWith, SpyOnWeb"
+        ]
+      ]
+    },
+    "CASE_4_EMERGENCY_HEALTH": {
+      "title": "Emergency Health Procurement: Zadid Automobiles / DGHS",
+      "google_dorks": [
+        "\"Zadid Automobiles\" site:roc.gov.bd",
+        "\"Zadid Automobiles\" filetype:pdf government",
+        "\"Zadid Automobiles\" \"annual report\" OR \"audit\"",
+        "\"DGHS\" site:roc.gov.bd",
+        "\"DGHS\" filetype:pdf government",
+        "\"DGHS\" \"annual report\" OR \"audit\"",
+        "\"World Bank Project\" site:roc.gov.bd",
+        "\"World Bank Project\" filetype:pdf government",
+        "\"World Bank Project\" \"annual report\" OR \"audit\"",
+        "\"defective masks\" government Bangladesh",
+        "\"unusable equipment\" government Bangladesh",
+        "\"supply chain fraud\" government Bangladesh"
+      ],
+      "registry_queries": {
+        "rjsc": "site:roc.gov.bd 'Zadid Automobiles'",
+        "trade": "ImportGenius/Panjiva/Zauba Zadid 2020-2022",
+        "wb_audit": "World Bank INT debarment list"
+      },
+      "data_sources": [
+        [
+          "RJSC Registry",
+          "roc.gov.bd"
+        ],
+        [
+          "DGHS Procurement",
+          "dghs.gov.bd"
+        ],
+        [
+          "ImportGenius",
+          "importgenius.com"
+        ],
+        [
+          "Panjiva",
+          "panjiva.com"
+        ],
+        [
+          "Zauba",
+          "zauba.com"
+        ],
+        [
+          "World Bank INT",
+          "integrity.worldbank.org"
+        ]
+      ]
+    }
+  }
+}

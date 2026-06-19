@@ -1,0 +1,108 @@
+{
+  "phase": "PHASE 2: Infrastructure & Network Pivoting",
+  "cases": {
+    "CASE_2_MEGHNACLOUD": {
+      "domain_whois_history": {
+        "tools": [
+          "SecurityTrails",
+          "WhoisXMLAPI",
+          "DomainTools"
+        ],
+        "targets": [
+          "meghnacloud.com",
+          "gennextech.com",
+          "gennext.com.bd"
+        ],
+        "goal": "Find historical registrant info before privacy masking"
+      },
+      "dns_reverse_ip": {
+        "tools": [
+          "SecurityTrails",
+          "ViewDNS",
+          "Censys",
+          "Shodan"
+        ],
+        "targets": [
+          "meghnacloud.com",
+          "gennext"
+        ],
+        "goal": "Identify shared hosting blocks, co-hosted entities"
+      },
+      "shared_analytics": {
+        "tools": [
+          "BuiltWith",
+          "SpyOnWeb",
+          "DNSlytics"
+        ],
+        "markers": [
+          "Google Analytics UA-*",
+          "Google Tag Manager GTM-*",
+          "AdSense"
+        ],
+        "goal": "Find other sites with same analytics ID = common operator"
+      }
+    },
+    "CASE_3_EGP_SYNDICATE": {
+      "reverse_ip_all_three": {
+        "entities": [
+          "OrangeBD",
+          "Tappware Solutions",
+          "SoftBD"
+        ],
+        "goal": "Compare IP blocks, nameservers, hosting providers for overlap"
+      },
+      "shared_infrastructure": {
+        "tools": [
+          "SecurityTrails",
+          "ViewDNS",
+          "BuiltWith"
+        ],
+        "signals": [
+          "Same IP block (25x.*.*.*, 36x.*.*.* patterns)",
+          "Same nameservers",
+          "Same host provider (InterCloud, BRACNet, etc.)",
+          "Same Analytics ID (indicates common operator)"
+        ]
+      },
+      "dns_history_timeline": {
+        "goal": "Compare domain registration dates and DNS changes around tender dates"
+      }
+    },
+    "CASE_4_EMERGENCY_HEALTH": {
+      "import_export_tracing": {
+        "tools": [
+          "ImportGenius",
+          "Panjiva",
+          "Zauba",
+          "VolzaGlobal"
+        ],
+        "search_terms": [
+          "Zadid Automobiles",
+          "Zadid Auto",
+          "Zadid Ltd"
+        ],
+        "period": "2020-2022",
+        "extraction": [
+          "HS codes (commodity classification)",
+          "Origin country of imports",
+          "Declared import value",
+          "Shipper/exporter names",
+          "Bill of Lading data"
+        ]
+      },
+      "hs_code_analysis": {
+        "historical_codes": [
+          "8704 (vehicles)",
+          "8708 (vehicle parts)",
+          "7326 (metal structures)"
+        ],
+        "alleged_codes": [
+          "3926 (plastic articles)",
+          "6307 (textiles/masks)",
+          "9018 (medical devices)"
+        ],
+        "anomaly": "Why did automotive parts supplier suddenly import medical masks?"
+      }
+    }
+  }
+}
